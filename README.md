@@ -27,4 +27,4 @@
 ------------
 
 #### LINKS de ajuda
-- Como montar um servidor dedicado Ubuntu (https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/)
+- [Como montar um servidor dedicado Ubuntu](https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/)
