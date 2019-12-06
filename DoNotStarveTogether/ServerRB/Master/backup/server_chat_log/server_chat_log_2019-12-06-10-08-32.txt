@@ -1,0 +1,10 @@
+[00:01:46]: [Join Announcement] zPedroLuis
+[00:01:53]: [Join Announcement] GR3
+[00:02:03]: [Join Announcement] Mr. Zhaobian
+[00:14:16]: [Skin Announcement] Mr. Zhaobian body_cardigan_red_cardinal
+[00:40:14]: [Skin Announcement] GR3 body_buttons_purple_violet
+[00:40:28]: [Leave Announcement] zPedroLuis
+[00:42:10]: [Join Announcement] zPedroLuis
+[00:55:32]: [Leave Announcement] GR3
+[00:57:09]: [Leave Announcement] zPedroLuis
+[01:01:23]: [Leave Announcement] Mr. Zhaobian

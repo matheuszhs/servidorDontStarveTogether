@@ -1,0 +1,6 @@
+[00:01:34]: [Join Announcement] Mr. Zhaobian
+[00:03:24]: [Join Announcement] GR3
+[00:04:40]: [Death Announcement] Mr. Zhaobian was killed by Killer Bee. They became a spooky ghost!
+[00:04:53]: [Death Announcement] GR3 was killed by Killer Bee. They became a spooky ghost!
+[00:05:46]: [Leave Announcement] Mr. Zhaobian
+[00:05:46]: [Leave Announcement] GR3

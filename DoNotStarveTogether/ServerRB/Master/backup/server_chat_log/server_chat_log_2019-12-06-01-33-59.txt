@@ -1,0 +1,5 @@
+[00:01:47]: [Join Announcement] Mr. Zhaobian
+[00:02:00]: [Join Announcement] zPedroLuis
+[00:06:26]: [Join Announcement] GR3
+[00:08:13]: [Death Announcement] zPedroLuis was killed by Darkness. He became a spooky ghost!
+[00:08:14]: [Death Announcement] Mr. Zhaobian was killed by Darkness. She became a spooky ghost!
