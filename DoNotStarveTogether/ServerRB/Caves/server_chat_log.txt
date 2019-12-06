@@ -1,6 +1,2 @@
-[02:29:51]: [Join Announcement] Mr. Zhaobian
-[02:31:55]: [Join Announcement] GR3
-[03:03:36]: [Skin Announcement] GR3 legs_wilson_magma
-[03:06:47]: [Skin Announcement] Mr. Zhaobian legs_pinstripe_pants_navy_crow
-[03:29:13]: [Leave Announcement] Mr. Zhaobian
-[03:29:14]: [Leave Announcement] GR3
+[00:03:41]: [Join Announcement] Mr. Zhaobian
+[00:04:51]: [Join Announcement] GR3

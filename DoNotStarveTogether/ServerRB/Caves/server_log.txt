@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /home/ubuntu/.klei//DoNotStarveTogether/ServerRB/Caves/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 382128
-[00:00:00]: Current time: Fri Dec  6 15:25:55 2019
+[00:00:00]: Current time: Fri Dec  6 19:00:57 2019
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: ip-172-31-7-76
@@ -12,11 +12,11 @@
 [00:00:00]: Build Date: 5532
 [00:00:00]: Mode: 32-bit
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster ServerRB -monitor_parent_process 1237 -shard Caves 
+[00:00:00]: Command Line Arguments: -console -cluster ServerRB -monitor_parent_process 1255 -shard Caves 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (4131461952)
+[00:00:00]: THREAD - started 'GAClient' (4131228480)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/klump.zip successful.
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
@@ -25,40 +25,40 @@
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: ProfileIndex:12.08
+[00:00:00]: ProfileIndex:9.88
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: THREAD - started 'Ping Job Thread' (4124048192)
 [00:00:00]: OnLoadPermissionList: /home/ubuntu/.klei//DoNotStarveTogether/ServerRB/blocklist.txt (Failure)
 [00:00:00]: OnLoadPermissionList: /home/ubuntu/.klei//DoNotStarveTogether/ServerRB/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: /home/ubuntu/.klei//DoNotStarveTogether/ServerRB/whitelist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (4119853888)
 [00:00:00]: Token retrieved from: /home/ubuntu/.klei//DoNotStarveTogether/ServerRB/cluster_token.txt
 [00:00:00]: Token retrieved from: /home/ubuntu/.klei//DoNotStarveTogether/ServerRB/cluster_token.txt
 [00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: THREAD - started 'StreamInput' (4121946944)
 [00:00:00]: Renderer initialize: Okay
 [00:00:00]: AnimManager initialize: Okay
 [00:00:00]: Buffers initialize: Okay
 [00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
 [00:00:00]: GameSpecific initialize: Okay
 [00:00:00]: cGame::StartPlaying
+[00:00:00]: THREAD - started 'Ping Job Thread' (4124048192)
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:01]:   taskgrouplist:	default	Together	
-[00:00:01]:   taskgrouplist:	classic	Classic	
-[00:00:01]:   taskgrouplist:	cave_default	Underground	
-[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:01]: running main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: running main.lua
 	
-[00:00:01]: loaded modindex	
-[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:01]: DownloadMods(3)
-[00:00:01]: Download server mod 1582864428
+[00:00:00]: DownloadMods(3)
+[00:00:00]: Download server mod 1582864428
 [00:00:01]: Download server mod 378160973
 [00:00:02]: Download server mod 666155465
 [00:00:02]: modoverrides.lua enabling workshop-378160973	
@@ -184,10 +184,10 @@
 [00:00:06]: 	Load FE: done	
 [00:00:06]: Check for write access: TRUE
 [00:00:06]: Check for read access: TRUE
-[00:00:06]: THREAD - started 'FilesExistAsyncThread' (4081785664)
-[00:00:06]: FilesExistAsyncThread started (13288 files)...
 [00:00:06]: ModIndex: Load sequence finished successfully.	
 [00:00:06]: Reset() returning
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (4082105152)
+[00:00:06]: FilesExistAsyncThread started (13288 files)...
 [00:00:07]: [200] Account Communication Success (6)
 [00:00:07]: Received (KU_84Tfun2u) from TokenPurpose
 [00:00:07]: Starting Dedicated Server Game	
@@ -345,12 +345,12 @@
 [00:00:08]: loaded saveindex	
 [00:00:08]: OnFilesLoaded()	
 [00:00:08]: OnUpdatePurchaseStateComplete	
-[00:00:08]: Loading world: session/442C017514EFE35F/0000000035	
+[00:00:08]: Loading world: session/442C017514EFE35F/0000000044	
 [00:00:08]: Save file is at version 5.031	
 [00:00:08]: Klump load on boot started.	
 [00:00:08]: Klump files loaded: 	0	
-[00:00:08]: 	Unload FE	
-[00:00:08]: 	Unload FE done	
+[00:00:09]: 	Unload FE	
+[00:00:09]: 	Unload FE done	
 [00:00:10]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
 [00:00:10]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
 [00:00:10]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
@@ -371,10 +371,10 @@
 [00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
 [00:00:10]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
 [00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:11]: 	LOAD BE	
-[00:00:16]: 	LOAD BE: done	
-[00:00:16]: Begin Session: 442C017514EFE35F
-[00:00:16]: saving to server_temp/server_save	
+[00:00:10]: 	LOAD BE	
+[00:00:15]: 	LOAD BE: done	
+[00:00:15]: Begin Session: 442C017514EFE35F
+[00:00:15]: saving to server_temp/server_save	
 [00:00:16]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
 [00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
 [00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
@@ -388,48 +388,48 @@
 [00:00:28]: World generated on version 382128, using seed: 1575587620	
 [00:00:28]: setting 	summerlength	15	
 [00:00:28]: setting 	isnightmaredawn	false	
-[00:00:28]: setting 	elapseddaysinseason	19	
+[00:00:28]: setting 	elapseddaysinseason	7	
 [00:00:28]: setting 	isfullmoon	false	
-[00:00:28]: setting 	moisture	4366.6586914062	
+[00:00:28]: setting 	moisture	5483.5473632812	
 [00:00:28]: setting 	springlength	20	
-[00:00:28]: setting 	isnightmarewild	true	
+[00:00:28]: setting 	isnightmarewild	false	
 [00:00:28]: setting 	moonphase	new	
-[00:00:28]: setting 	precipitationrate	0	
+[00:00:28]: setting 	precipitationrate	0.2236437946558	
 [00:00:28]: setting 	iswet	false	
 [00:00:28]: setting 	isnewmoon	false	
-[00:00:28]: setting 	iswinter	false	
-[00:00:28]: setting 	israining	false	
+[00:00:28]: setting 	iswinter	true	
+[00:00:28]: setting 	israining	true	
 [00:00:28]: setting 	isnightmarewarn	false	
-[00:00:28]: setting 	precipitation	none	
-[00:00:28]: setting 	cavephase	night	
+[00:00:28]: setting 	precipitation	rain	
+[00:00:28]: setting 	cavephase	dusk	
 [00:00:28]: setting 	moistureceil	6324.0717773438	
 [00:00:28]: setting 	isday	false	
 [00:00:28]: setting 	iscaveday	false	
-[00:00:28]: setting 	season	autumn	
-[00:00:28]: setting 	timeinphase	0.87723788420359	
-[00:00:28]: setting 	temperature	1.1618519588837	
-[00:00:28]: setting 	isnightmarecalm	false	
+[00:00:28]: setting 	season	winter	
+[00:00:28]: setting 	timeinphase	0.19326375325521	
+[00:00:28]: setting 	temperature	-14.234633408442	
+[00:00:28]: setting 	isnightmarecalm	true	
 [00:00:28]: setting 	isnight	true	
 [00:00:28]: setting 	isdusk	false	
-[00:00:28]: setting 	iscavedusk	false	
-[00:00:28]: setting 	isautumn	true	
+[00:00:28]: setting 	iscavedusk	true	
+[00:00:28]: setting 	isautumn	false	
 [00:00:28]: setting 	issnowing	false	
 [00:00:28]: setting 	iswaxingmoon	true	
-[00:00:28]: setting 	pop	0.6655306672113	
+[00:00:28]: setting 	pop	1	
 [00:00:28]: setting 	snowlevel	0	
 [00:00:28]: setting 	issnowcovered	false	
 [00:00:28]: setting 	autumnlength	20	
 [00:00:28]: setting 	phase	night	
-[00:00:28]: setting 	nightmaretime	486.24967677753	
+[00:00:28]: setting 	nightmaretime	39.913278928012	
 [00:00:28]: setting 	winterlength	15	
 [00:00:28]: setting 	isspring	false	
-[00:00:28]: setting 	nightmarephase	wild	
-[00:00:28]: setting 	remainingdaysinseason	1	
-[00:00:28]: setting 	cycles	19	
-[00:00:28]: setting 	iscavenight	true	
-[00:00:28]: setting 	nightmaretimeinphase	0.24166451185023	
-[00:00:28]: setting 	wetness	0	
-[00:00:28]: setting 	time	0.9693094710509	
+[00:00:28]: setting 	nightmarephase	calm	
+[00:00:28]: setting 	remainingdaysinseason	8	
+[00:00:28]: setting 	cycles	27	
+[00:00:28]: setting 	iscavenight	false	
+[00:00:28]: setting 	nightmaretimeinphase	0.11087021924448	
+[00:00:28]: setting 	wetness	16.376955032349	
+[00:00:28]: setting 	time	0.37289492289225	
 [00:00:28]: setting 	issummer	false	
 [00:00:28]: [Shard] Slave is waiting for LUA...
 [00:00:32]: Reconstructing topology	
@@ -456,137 +456,48 @@
 [00:00:32]: [Steam] SteamGameServer_Init(8769, 11001, 27019)
 [00:00:32]: [Steam] SteamGameServer_Init success
 [00:00:32]: [Shard] Sending slave information to master...
-[00:00:32]: Validating portal[1] <-> 1[1] (inactive)	
-[00:00:32]: Validating portal[3] <-> 1[3] (inactive)	
-[00:00:32]: Validating portal[8] <-> 1[8] (inactive)	
-[00:00:32]: Validating portal[2] <-> 1[2] (inactive)	
-[00:00:32]: Validating portal[7] <-> 1[7] (inactive)	
-[00:00:32]: Validating portal[9] <-> 1[9] (inactive)	
-[00:00:32]: Validating portal[10] <-> 1[10] (inactive)	
-[00:00:32]: Validating portal[4] <-> 1[4] (inactive)	
-[00:00:32]: Validating portal[5] <-> 1[5] (inactive)	
-[00:00:32]: Validating portal[6] <-> 1[6] (inactive)	
-[00:00:32]: Gameserver logged on to Steam, assigned identity steamid:90131002087917569
+[00:00:33]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:33]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:33]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:33]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:33]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:33]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:33]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:33]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:33]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:33]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:34]: Gameserver logged on to Steam, assigned identity steamid:90131006323779587
 [00:00:35]: Overriding region to US
 [00:00:35]: Registering slave in US lobby
 [00:00:36]: [Shard] Slave is now ready!
 [00:00:36]: World 1 is now connected	
+[00:00:36]: Validating portal[2] <-> 1[2] (active)	
+[00:00:36]: Validating portal[9] <-> 1[9] (active)	
 [00:00:36]: Validating portal[1] <-> 1[1] (active)	
 [00:00:36]: Validating portal[3] <-> 1[3] (active)	
-[00:00:36]: Validating portal[8] <-> 1[8] (active)	
-[00:00:36]: Validating portal[2] <-> 1[2] (active)	
-[00:00:36]: Validating portal[7] <-> 1[7] (active)	
-[00:00:36]: Validating portal[9] <-> 1[9] (active)	
-[00:00:36]: Validating portal[10] <-> 1[10] (active)	
 [00:00:36]: Validating portal[4] <-> 1[4] (active)	
+[00:00:36]: Validating portal[7] <-> 1[7] (active)	
 [00:00:36]: Validating portal[5] <-> 1[5] (active)	
+[00:00:36]: Validating portal[10] <-> 1[10] (active)	
 [00:00:36]: Validating portal[6] <-> 1[6] (active)	
+[00:00:36]: Validating portal[8] <-> 1[8] (active)	
 [00:00:37]: [Shard] Slave LUA is now ready!
 [00:00:37]: Sim paused
-[00:05:34]: Registering slave in US lobby
-[00:10:34]: Registering slave in US lobby
-[00:15:34]: Registering slave in US lobby
-[00:20:34]: Registering slave in US lobby
-[00:25:34]: Registering slave in US lobby
-[00:30:07]: [200] Account Communication Success (6)
-[00:30:07]: Received (KU_84Tfun2u) from TokenPurpose
-[00:30:34]: Registering slave in US lobby
-[00:35:34]: Registering slave in US lobby
-[00:40:34]: Registering slave in US lobby
-[00:45:34]: Registering slave in US lobby
-[00:50:34]: Registering slave in US lobby
-[00:55:34]: Registering slave in US lobby
-[01:00:07]: [200] Account Communication Success (6)
-[01:00:07]: Received (KU_84Tfun2u) from TokenPurpose
-[01:00:34]: Registering slave in US lobby
-[01:05:34]: Registering slave in US lobby
-[01:10:34]: Registering slave in US lobby
-[01:15:35]: Registering slave in US lobby
-[01:20:35]: Registering slave in US lobby
-[01:25:35]: Registering slave in US lobby
-[01:30:07]: [200] Account Communication Success (6)
-[01:30:07]: Received (KU_84Tfun2u) from TokenPurpose
-[01:30:35]: Registering slave in US lobby
-[01:35:35]: Registering slave in US lobby
-[01:40:35]: Registering slave in US lobby
-[01:45:35]: Registering slave in US lobby
-[01:50:35]: Registering slave in US lobby
-[01:55:35]: Registering slave in US lobby
-[02:00:07]: [200] Account Communication Success (6)
-[02:00:07]: Received (KU_84Tfun2u) from TokenPurpose
-[02:00:35]: Registering slave in US lobby
-[02:05:35]: Registering slave in US lobby
-[02:10:35]: Registering slave in US lobby
-[02:15:35]: Registering slave in US lobby
-[02:20:35]: Registering slave in US lobby
-[02:25:35]: Registering slave in US lobby
-[02:29:55]: Sim unpaused
-[02:30:07]: [200] Account Communication Success (6)
-[02:30:07]: Received (KU_84Tfun2u) from TokenPurpose
-[02:30:35]: Registering slave in US lobby
-[02:35:35]: Registering slave in US lobby
-[02:38:12]: Serializing world: session/442C017514EFE35F/0000000036
-[02:38:12]: Truncating to snapshot #36...
-[02:38:12]:  - session/442C017514EFE35F/0000000030
-[02:38:12]:    1 file(s) removed
-[02:40:35]: Registering slave in US lobby
-[02:45:35]: Registering slave in US lobby
-[02:46:13]: Serializing world: session/442C017514EFE35F/0000000037
-[02:50:35]: Registering slave in US lobby
-[02:54:13]: Serializing world: session/442C017514EFE35F/0000000038
-[02:54:13]: Truncating to snapshot #38...
-[02:54:13]:  - session/442C017514EFE35F/0000000032
-[02:54:13]:    1 file(s) removed
-[02:55:35]: Registering slave in US lobby
-[03:00:07]: [200] Account Communication Success (6)
-[03:00:07]: Received (KU_84Tfun2u) from TokenPurpose
-[03:00:35]: Registering slave in US lobby
-[03:02:14]: Serializing world: session/442C017514EFE35F/0000000039
-[03:02:14]: Truncating to snapshot #39...
-[03:02:14]:  - session/442C017514EFE35F/0000000033
-[03:02:14]:    1 file(s) removed
-[03:05:35]: Registering slave in US lobby
-[03:10:15]: Serializing world: session/442C017514EFE35F/0000000040
-[03:10:15]: Truncating to snapshot #40...
-[03:10:15]:  - session/442C017514EFE35F/0000000034
-[03:10:15]:    1 file(s) removed
-[03:10:35]: Registering slave in US lobby
-[03:15:35]: Registering slave in US lobby
-[03:18:16]: Serializing world: session/442C017514EFE35F/0000000041
-[03:18:16]: Truncating to snapshot #41...
-[03:18:16]:  - session/442C017514EFE35F/0000000035
-[03:18:16]:    1 file(s) removed
-[03:20:35]: Registering slave in US lobby
-[03:25:35]: Registering slave in US lobby
-[03:26:16]: Serializing world: session/442C017514EFE35F/0000000042
-[03:26:16]: Truncating to snapshot #42...
-[03:26:16]:  - session/442C017514EFE35F/0000000036
-[03:26:16]:    1 file(s) removed
-[03:29:14]: Sim paused
-[03:30:07]: [200] Account Communication Success (6)
-[03:30:07]: Received (KU_84Tfun2u) from TokenPurpose
-[03:30:35]: Registering slave in US lobby
-[03:30:49]: RemoteCommandInput: "c_shutdown(true)"
-[03:30:49]: c_shutdown	true	
-[03:30:50]: Serializing world: session/442C017514EFE35F/0000000043
-[03:30:50]: Truncating to snapshot #43...
-[03:30:50]:  - session/442C017514EFE35F/0000000037
-[03:30:50]:    1 file(s) removed
-[03:30:50]: Serializing world: session/442C017514EFE35F/0000000044
-[03:30:50]: Truncating to snapshot #44...
-[03:30:50]:  - session/442C017514EFE35F/0000000038
-[03:30:50]:    1 file(s) removed
-[03:30:50]: [Shard] Stopping shard mode
-[03:30:51]: Collecting garbage...
-[03:30:51]: lua_gc took 0.17 seconds
-[03:30:51]: ~ShardLuaProxy()
-[03:30:51]: ~cEventLeaderboardProxy()
-[03:30:51]: ~ItemServerLuaProxy()
-[03:30:51]: ~InventoryLuaProxy()
-[03:30:51]: ~NetworkLuaProxy()
-[03:30:51]: ~SimLuaProxy()
-[03:30:51]: lua_close took 0.22 seconds
-[03:30:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[03:30:51]: CurlRequestManager::ClientThread::Main() complete
-[03:30:51]: HttpClient2 discarded 0 callbacks.
-[03:30:51]: Shutting down
+[00:03:44]: Sim unpaused
+[00:05:35]: Registering slave in US lobby
+[00:09:04]: Serializing world: session/442C017514EFE35F/0000000045
+[00:09:04]: Truncating to snapshot #45...
+[00:09:04]:  - session/442C017514EFE35F/0000000039
+[00:09:04]:    1 file(s) removed
+[00:10:35]: Registering slave in US lobby
+[00:15:35]: Registering slave in US lobby
+[00:17:05]: Serializing world: session/442C017514EFE35F/0000000046
+[00:17:05]: Truncating to snapshot #46...
+[00:17:05]:  - session/442C017514EFE35F/0000000040
+[00:17:05]:    1 file(s) removed
+[00:20:35]: Registering slave in US lobby
+[00:25:05]: Serializing world: session/442C017514EFE35F/0000000047
+[00:25:05]: Truncating to snapshot #47...
+[00:25:05]:  - session/442C017514EFE35F/0000000041
+[00:25:05]:    1 file(s) removed
+[00:25:35]: Registering slave in US lobby
