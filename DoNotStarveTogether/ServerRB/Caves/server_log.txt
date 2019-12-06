@@ -499,3 +499,11 @@
 [01:00:07]: [200] Account Communication Success (6)
 [01:00:07]: Received (KU_84Tfun2u) from TokenPurpose
 [01:00:34]: Registering slave in US lobby
+[01:05:34]: Registering slave in US lobby
+[01:10:34]: Registering slave in US lobby
+[01:15:35]: Registering slave in US lobby
+[01:20:35]: Registering slave in US lobby
+[01:25:35]: Registering slave in US lobby
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_84Tfun2u) from TokenPurpose
+[01:30:35]: Registering slave in US lobby
