@@ -531,3 +531,22 @@
 [00:25:05]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000047
 [00:25:06]: Serializing world: session/DDEF4C3C16B159B7/0000000047
 [00:25:13]: Registering master server in US lobby
+[00:30:07]: [200] Account Communication Success (6)
+[00:30:07]: Received (KU_84Tfun2u) from TokenPurpose
+[00:33:05]: Registering master server in US lobby
+[00:33:06]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000048
+[00:33:06]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000048
+[00:33:06]: Serializing world: session/DDEF4C3C16B159B7/0000000048
+[00:41:07]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000049
+[00:41:07]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000049
+[00:41:07]: Serializing world: session/DDEF4C3C16B159B7/0000000049
+[00:41:10]: Registering master server in US lobby
+[00:49:07]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000050
+[00:49:07]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000050
+[00:49:08]: Serializing world: session/DDEF4C3C16B159B7/0000000050
+[00:49:15]: Registering master server in US lobby
+[00:50:48]: Error parsing JSON
+[00:57:07]: Registering master server in US lobby
+[00:57:08]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000051
+[00:57:08]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000051
+[00:57:09]: Serializing world: session/DDEF4C3C16B159B7/0000000051
