@@ -545,3 +545,20 @@
 [01:21:11]:  - session/442C017514EFE35F/0000000048
 [01:21:11]:    1 file(s) removed
 [01:25:35]: Registering slave in US lobby
+[01:29:11]: Serializing world: session/442C017514EFE35F/0000000055
+[01:29:11]: Truncating to snapshot #55...
+[01:29:11]:  - session/442C017514EFE35F/0000000049
+[01:29:11]:    1 file(s) removed
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_84Tfun2u) from TokenPurpose
+[01:30:35]: Registering slave in US lobby
+[01:35:35]: Registering slave in US lobby
+[01:37:12]: Serializing world: session/442C017514EFE35F/0000000056
+[01:37:12]: Truncating to snapshot #56...
+[01:37:12]:  - session/442C017514EFE35F/0000000050
+[01:37:12]:    1 file(s) removed
+[01:40:35]: Registering slave in US lobby
+[01:43:26]: Sim paused
+[01:45:35]: Registering slave in US lobby
+[01:50:35]: Registering slave in US lobby
+[01:55:35]: Registering slave in US lobby

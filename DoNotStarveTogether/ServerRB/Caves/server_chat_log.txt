@@ -2,3 +2,5 @@
 [00:04:51]: [Join Announcement] GR3
 [00:48:01]: [Skin Announcement] Mr. Zhaobian body_tweedvest_grey_steel
 [01:16:31]: [Skin Announcement] GR3 hand_workgloves_brown_chocolate
+[01:34:12]: [Leave Announcement] GR3
+[01:43:26]: [Leave Announcement] Mr. Zhaobian

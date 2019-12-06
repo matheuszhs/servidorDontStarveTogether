@@ -565,3 +565,29 @@
 [01:21:10]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000054
 [01:21:10]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000054
 [01:21:11]: Serializing world: session/DDEF4C3C16B159B7/0000000054
+[01:29:11]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000055
+[01:29:11]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000055
+[01:29:12]: Serializing world: session/DDEF4C3C16B159B7/0000000055
+[01:29:14]: Registering master server in US lobby
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_84Tfun2u) from TokenPurpose
+[01:31:06]: Error parsing JSON
+[01:31:22]: steamnetworkingsockets_lowlevel.cpp(898): Assertion Failed: SDR service thread gave up on lock after waiting 50ms.  This directly adds to delay of processing of network packets!
+[01:34:12]: [Steam] SendUserDisconnect for '76561198095468989'
+[01:34:12]: Connection lost to 170.232.158.229|1 <3507018239724915952>
+[01:34:12]: [Shard] (KU_0cJfzxLs) disconnected from [SHDMASTER](1)
+[01:34:12]: Registering master server in US lobby
+[01:34:12]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000056
+[01:37:12]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000056
+[01:37:12]: Serializing world: session/DDEF4C3C16B159B7/0000000056
+[01:37:17]: Registering master server in US lobby
+[01:43:26]: [Steam] SendUserDisconnect for '76561198117947125'
+[01:43:26]: Connection lost to 170.232.158.228|1 <5096975250061907013>
+[01:43:26]: [Shard] (KU_84Tfun2u) disconnected from [SHDMASTER](1)
+[01:43:26]: Registering master server in US lobby
+[01:43:26]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000057
+[01:43:26]: Sim paused
+[01:44:12]: [P2P] Session timed out for '76561198095468989'
+[01:44:12]: [P2P] Remove session: 170.232.158.229|1 '76561198095468989'
+[01:53:26]: [P2P] Session timed out for '76561198117947125'
+[01:53:26]: [P2P] Remove session: 170.232.158.228|1 '76561198117947125'
