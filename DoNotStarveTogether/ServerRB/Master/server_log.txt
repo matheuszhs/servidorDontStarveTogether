@@ -550,3 +550,18 @@
 [00:57:08]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000051
 [00:57:08]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000051
 [00:57:09]: Serializing world: session/DDEF4C3C16B159B7/0000000051
+[01:00:07]: [200] Account Communication Success (6)
+[01:00:07]: Received (KU_84Tfun2u) from TokenPurpose
+[01:05:09]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000052
+[01:05:09]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000052
+[01:05:09]: Serializing world: session/DDEF4C3C16B159B7/0000000052
+[01:05:12]: Registering master server in US lobby
+[01:06:15]: steamnetworkingsockets_lowlevel.cpp(898): Assertion Failed: SDR service thread gave up on lock after waiting 50ms.  This directly adds to delay of processing of network packets!
+[01:13:10]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000053
+[01:13:10]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000053
+[01:13:10]: Serializing world: session/DDEF4C3C16B159B7/0000000053
+[01:13:17]: Registering master server in US lobby
+[01:21:09]: Registering master server in US lobby
+[01:21:10]: Serializing user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000054
+[01:21:10]: Serializing user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000054
+[01:21:11]: Serializing world: session/DDEF4C3C16B159B7/0000000054
