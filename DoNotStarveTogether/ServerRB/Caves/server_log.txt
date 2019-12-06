@@ -524,3 +524,24 @@
 [02:30:07]: [200] Account Communication Success (6)
 [02:30:07]: Received (KU_84Tfun2u) from TokenPurpose
 [02:30:35]: Registering slave in US lobby
+[02:35:35]: Registering slave in US lobby
+[02:38:12]: Serializing world: session/442C017514EFE35F/0000000036
+[02:38:12]: Truncating to snapshot #36...
+[02:38:12]:  - session/442C017514EFE35F/0000000030
+[02:38:12]:    1 file(s) removed
+[02:40:35]: Registering slave in US lobby
+[02:45:35]: Registering slave in US lobby
+[02:46:13]: Serializing world: session/442C017514EFE35F/0000000037
+[02:50:35]: Registering slave in US lobby
+[02:54:13]: Serializing world: session/442C017514EFE35F/0000000038
+[02:54:13]: Truncating to snapshot #38...
+[02:54:13]:  - session/442C017514EFE35F/0000000032
+[02:54:13]:    1 file(s) removed
+[02:55:35]: Registering slave in US lobby
+[03:00:07]: [200] Account Communication Success (6)
+[03:00:07]: Received (KU_84Tfun2u) from TokenPurpose
+[03:00:35]: Registering slave in US lobby
+[03:02:14]: Serializing world: session/442C017514EFE35F/0000000039
+[03:02:14]: Truncating to snapshot #39...
+[03:02:14]:  - session/442C017514EFE35F/0000000033
+[03:02:14]:    1 file(s) removed
