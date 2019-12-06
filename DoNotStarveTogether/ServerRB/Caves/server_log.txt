@@ -545,3 +545,48 @@
 [03:02:14]: Truncating to snapshot #39...
 [03:02:14]:  - session/442C017514EFE35F/0000000033
 [03:02:14]:    1 file(s) removed
+[03:05:35]: Registering slave in US lobby
+[03:10:15]: Serializing world: session/442C017514EFE35F/0000000040
+[03:10:15]: Truncating to snapshot #40...
+[03:10:15]:  - session/442C017514EFE35F/0000000034
+[03:10:15]:    1 file(s) removed
+[03:10:35]: Registering slave in US lobby
+[03:15:35]: Registering slave in US lobby
+[03:18:16]: Serializing world: session/442C017514EFE35F/0000000041
+[03:18:16]: Truncating to snapshot #41...
+[03:18:16]:  - session/442C017514EFE35F/0000000035
+[03:18:16]:    1 file(s) removed
+[03:20:35]: Registering slave in US lobby
+[03:25:35]: Registering slave in US lobby
+[03:26:16]: Serializing world: session/442C017514EFE35F/0000000042
+[03:26:16]: Truncating to snapshot #42...
+[03:26:16]:  - session/442C017514EFE35F/0000000036
+[03:26:16]:    1 file(s) removed
+[03:29:14]: Sim paused
+[03:30:07]: [200] Account Communication Success (6)
+[03:30:07]: Received (KU_84Tfun2u) from TokenPurpose
+[03:30:35]: Registering slave in US lobby
+[03:30:49]: RemoteCommandInput: "c_shutdown(true)"
+[03:30:49]: c_shutdown	true	
+[03:30:50]: Serializing world: session/442C017514EFE35F/0000000043
+[03:30:50]: Truncating to snapshot #43...
+[03:30:50]:  - session/442C017514EFE35F/0000000037
+[03:30:50]:    1 file(s) removed
+[03:30:50]: Serializing world: session/442C017514EFE35F/0000000044
+[03:30:50]: Truncating to snapshot #44...
+[03:30:50]:  - session/442C017514EFE35F/0000000038
+[03:30:50]:    1 file(s) removed
+[03:30:50]: [Shard] Stopping shard mode
+[03:30:51]: Collecting garbage...
+[03:30:51]: lua_gc took 0.17 seconds
+[03:30:51]: ~ShardLuaProxy()
+[03:30:51]: ~cEventLeaderboardProxy()
+[03:30:51]: ~ItemServerLuaProxy()
+[03:30:51]: ~InventoryLuaProxy()
+[03:30:51]: ~NetworkLuaProxy()
+[03:30:51]: ~SimLuaProxy()
+[03:30:51]: lua_close took 0.22 seconds
+[03:30:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:30:51]: CurlRequestManager::ClientThread::Main() complete
+[03:30:51]: HttpClient2 discarded 0 callbacks.
+[03:30:51]: Shutting down
