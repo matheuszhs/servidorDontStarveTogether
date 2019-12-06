@@ -483,3 +483,11 @@
 [00:00:36]: Validating portal[6] <-> 1[6] (active)	
 [00:00:37]: [Shard] Slave LUA is now ready!
 [00:00:37]: Sim paused
+[00:05:34]: Registering slave in US lobby
+[00:10:34]: Registering slave in US lobby
+[00:15:34]: Registering slave in US lobby
+[00:20:34]: Registering slave in US lobby
+[00:25:34]: Registering slave in US lobby
+[00:30:07]: [200] Account Communication Success (6)
+[00:30:07]: Received (KU_84Tfun2u) from TokenPurpose
+[00:30:34]: Registering slave in US lobby
