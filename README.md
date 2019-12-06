@@ -22,6 +22,9 @@
 | tmux | Inicia o terminal do tmux |
 | tmux new -s (nome) | Inicia um processo do tmux com o nome colocado|
 | tmux ls | Lista os processos iniciados do tmux |
+| tmux a -t (nome) | Abrir o processo pelo nome |
+| Ctrl + B e D | Caso entre em um processo e quer sair sem matar |
+| exit | Mata o processo |
 | tmux kill-session -t (nome) | Mata o processo com o nome indicado |
 
 ------------
