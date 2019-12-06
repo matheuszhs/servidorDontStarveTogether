@@ -4,3 +4,5 @@
 [01:16:31]: [Skin Announcement] GR3 hand_workgloves_brown_chocolate
 [01:34:12]: [Leave Announcement] GR3
 [01:43:26]: [Leave Announcement] Mr. Zhaobian
+[02:28:29]: [Join Announcement] GR3
+[02:28:57]: [Join Announcement] Mr. Zhaobian

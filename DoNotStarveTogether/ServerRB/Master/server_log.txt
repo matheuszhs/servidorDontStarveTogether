@@ -591,3 +591,42 @@
 [01:44:12]: [P2P] Remove session: 170.232.158.229|1 '76561198095468989'
 [01:53:26]: [P2P] Session timed out for '76561198117947125'
 [01:53:26]: [P2P] Remove session: 170.232.158.228|1 '76561198117947125'
+[02:00:07]: [200] Account Communication Success (6)
+[02:00:07]: Received (KU_84Tfun2u) from TokenPurpose
+[02:08:23]: SteamDatagramTransportLock held for 50.1ms.  This can be a performance problem.
+[02:08:23]: steamnetworkingsockets_lowlevel.cpp(898): Assertion Failed: SDR service thread gave up on lock after waiting 50ms.  This directly adds to delay of processing of network packets!
+[02:28:05]: [P2P] Create session: 170.232.158.230|1 '76561198095468989'
+[02:28:05]: [P2P] Received from 170.232.158.230|1 '76561198095468989'
+[02:28:05]: [P2P] Sent to 170.232.158.230|1 '76561198095468989'
+[02:28:05]: New incoming connection 170.232.158.230|1 <7684390274940350243>
+[02:28:05]: Client connected from 170.232.158.230|1 <7684390274940350243>
+[02:28:05]: ValidateGameSessionToken pgs-usc^KU_0cJfzxLs^DontStarveTogether^f/BlEpOW4oQmZJDgjy2aUgScMQPRp6tGfm7EBO3iX7Y= for <7684390274940350243>
+[02:28:12]: Client authenticated: (KU_0cJfzxLs) GR3
+[02:28:12]: [Steam] SendUserConnectAndAuthenticate for '76561198095468989'
+[02:28:12]: [Steam] Authenticated client '76561198095468989'
+[02:28:17]: There is no active event to validate against.
+[02:28:18]: [Shard] Read save location file for (KU_0cJfzxLs)
+[02:28:18]: Registering master server in US lobby
+[02:28:28]: [P2P] Create session: 170.232.158.231|1 '76561198117947125'
+[02:28:28]: [P2P] Received from 170.232.158.231|1 '76561198117947125'
+[02:28:28]: [P2P] Sent to 170.232.158.231|1 '76561198117947125'
+[02:28:28]: New incoming connection 170.232.158.231|1 <3240464985851302050>
+[02:28:28]: Client connected from 170.232.158.231|1 <3240464985851302050>
+[02:28:28]: ValidateGameSessionToken pgs-usc^KU_84Tfun2u^DontStarveTogether^aMfTIcni0jXPZekLt12JIpNdaZtTX8A8ftWKp8M58QU= for <3240464985851302050>
+[02:28:28]: Client authenticated: (KU_84Tfun2u) Mr. Zhaobian
+[02:28:28]: [Steam] Authenticated host '76561198117947125'
+[02:28:29]: There is no active event to validate against.
+[02:28:29]: [Shard] Read save location file for (KU_84Tfun2u)
+[02:28:29]: Registering master server in US lobby
+[02:28:31]: Resuming user: session/DDEF4C3C16B159B7/A7G2CJKVFDBM/0000000056
+[02:28:31]: Could not find anim build FROMNUM
+[02:28:32]: Spawning player at: [Load] (-356.05, -0.00, -505.18)	
+[02:28:32]: Sim unpaused
+[02:28:33]: Platform hopping disabled on: GR3	
+[02:28:36]: New time stamps for everyone at	1575667773	
+[02:28:39]: Registering master server in US lobby
+[02:29:01]: Resuming user: session/DDEF4C3C16B159B7/A7H08TKU645O/0000000057
+[02:29:01]: Could not find anim build FROMNUM
+[02:29:01]: Spawning player at: [Load] (-358.33, -0.00, -503.70)	
+[02:29:02]: Registering master server in US lobby
+[02:29:03]: Platform hopping disabled on: Mr. Zhaobian	
