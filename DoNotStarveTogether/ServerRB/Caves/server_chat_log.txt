@@ -1,0 +1,22 @@
+[00:01:27]: [Join Announcement] Mr. Zhaobian
+[00:01:59]: [Join Announcement] GR3
+[00:15:12]: [Death Announcement] Mr. Zhaobian was killed by Red Hound. She became a spooky ghost!
+[00:17:31]: [Resurrect Announcement] Mr. Zhaobian was resurrected by GR3.
+[00:20:12]: [Leave Announcement] Mr. Zhaobian
+[00:20:59]: [Join Announcement] Mr. Zhaobian
+[01:52:51]: [Leave Announcement] Mr. Zhaobian
+[01:53:34]: [Leave Announcement] GR3
+[02:06:18]: [Join Announcement] Mr. Zhaobian
+[02:07:46]: [Join Announcement] GR3
+[02:26:29]: [Say] (KU_84Tfun2u) Mr. Zhaobian: lobo
+[02:26:36]: [Say] (KU_84Tfun2u) Mr. Zhaobian: sim
+[02:26:47]: [Leave Announcement] GR3
+[02:28:24]: [Join Announcement] GR3
+[04:14:56]: [Leave Announcement] Mr. Zhaobian
+[04:15:49]: [Join Announcement] Mr. Zhaobian
+[04:24:32]: [Leave Announcement] GR3
+[04:27:05]: [Leave Announcement] Mr. Zhaobian
+[04:28:00]: [Join Announcement] GR3
+[04:28:51]: [Join Announcement] Mr. Zhaobian
+[04:35:40]: [Leave Announcement] GR3
+[04:35:57]: [Leave Announcement] Mr. Zhaobian

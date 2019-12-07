@@ -1,8 +1,8 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 63%
-	Available Physical Memory: 2956m/8174m
-	Available Page File: 8225m/15598m
+	Memory Load: 54%
+	Available Physical Memory: 3719m/8174m
+	Available Page File: 7721m/15598m
 	Available Virtual Memory: 4005m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
@@ -18,7 +18,7 @@ Process Memory:
 [00:00:00]: PersistRootStorage is now APP:Klei//servidores/ServerRB/Caves/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 382128
-[00:00:00]: Current time: Fri Dec 06 23:26:38 2019
+[00:00:00]: Current time: Sat Dec 07 14:43:46 2019
 
 [00:00:00]: Don't Starve Together: 382128 WIN32
 [00:00:00]: Build Date: 4882
@@ -32,25 +32,25 @@ Process Memory:
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (920)
-[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: THREAD - started 'GAClient' (3084)
 [00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
 [00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: ProfileIndex:4.95
+[00:00:00]: ProfileIndex:4.87
 [00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: THREAD - started 'Ping Job Thread' (13040)
 [00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (11412)
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Authorized application d:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
 [00:00:00]: WindowsFirewall - Application already authorized
 [00:00:00]: OnLoadPermissionList: APP:Klei//servidores/ServerRB/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (3044)
+[00:00:00]: THREAD - started 'StreamInput' (11828)
 [00:00:00]: OnLoadPermissionList: APP:Klei//servidores/ServerRB/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: APP:Klei//servidores/ServerRB/whitelist.txt (Failure)
 [00:00:00]: Token retrieved from: APP:Klei//servidores/ServerRB/cluster_token.txt
@@ -92,64 +92,64 @@ Process Memory:
 [00:00:00]:   taskgrouplist:	cave_default	Underground	
 [00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
 [00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:01]: running main.lua
+[00:00:00]: running main.lua
 	
-[00:00:01]: loaded modindex	
-[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:01]: DownloadMods(0)
-[00:00:01]: modoverrides.lua enabling workshop-378160973	
-[00:00:01]: modoverrides.lua enabling workshop-1582864428	
-[00:00:01]: modoverrides.lua enabling workshop-666155465	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
-[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1582864428_CLIENT	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:01]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:01]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:01]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:01]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:01]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
-[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
-[00:00:01]: Overriding mod workshop-666155465's option chestR with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option food_style with value 0	
-[00:00:01]: Overriding mod workshop-666155465's option show_uses with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option lang with value auto	
-[00:00:01]: Overriding mod workshop-666155465's option chestB with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option food_order with value 0	
-[00:00:01]: Overriding mod workshop-666155465's option chestG with value -1	
-[00:00:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
-[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:00]: DownloadMods(0)
+[00:00:00]: modoverrides.lua enabling workshop-378160973	
+[00:00:00]: modoverrides.lua enabling workshop-1582864428	
+[00:00:00]: modoverrides.lua enabling workshop-666155465	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-1582864428_CLIENT	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:00]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:00]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:00]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:00]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:00]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:00]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:00]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:00:00]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:00:00]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option lang with value auto	
+[00:00:00]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:00:00]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:00:00]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:00:00]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:00]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
 [00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
 [00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
 [00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
@@ -184,42 +184,42 @@ Process Memory:
 [00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
 [00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
 [00:00:01]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:03]: LOADING LUA SUCCESS
-[00:00:03]: Registering mod namespace "showmeshint"
-[00:00:03]: Registering mod namespace "workshop-378160973"
-[00:00:03]: Registering mod namespace "showme"
-[00:00:03]: PlayerDeaths could not load morgue	
-[00:00:03]: PlayerHistory could not load player_history	
-[00:00:03]: ServerPreferences could not load server_preferences	
-[00:00:03]: bloom_enabled	false	
-[00:00:03]: loaded saveindex	
-[00:00:03]: OnFilesLoaded()	
-[00:00:03]: OnUpdatePurchaseStateComplete	
-[00:00:03]: Klump load on boot started.	
-[00:00:03]: Klump files loaded: 	0	
-[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
-[00:00:05]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
-[00:00:05]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
-[00:00:05]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering mod namespace "showmeshint"
+[00:00:02]: Registering mod namespace "workshop-378160973"
+[00:00:02]: Registering mod namespace "showme"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: ServerPreferences could not load server_preferences	
+[00:00:02]: bloom_enabled	false	
+[00:00:02]: loaded saveindex	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Klump load on boot started.	
+[00:00:02]: Klump files loaded: 	0	
+[00:00:04]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:00:04]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
+[00:00:04]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
 [00:00:05]: 	Load FE	
 [00:00:05]: 	Load FE: done	
-[00:00:05]: THREAD - started 'FilesExistAsyncThread' (11416)
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (2532)
 [00:00:05]: FilesExistAsyncThread started (13288 files)...
 [00:00:05]: Check for write access: TRUE
 [00:00:05]: Check for read access: TRUE
@@ -266,18 +266,18 @@ Process Memory:
 [00:00:06]: ~SimLuaProxy()
 [00:00:06]: FilesExistAsyncThread aborted.
 [00:00:06]: ... FilesExistAsyncThread complete
-[00:00:06]: lua_close took 0.08 seconds
+[00:00:06]: lua_close took 0.10 seconds
 [00:00:06]: ReleaseAll
 [00:00:06]: ReleaseAll Finished
 [00:00:06]: cGame::StartPlaying
 [00:00:06]: LOADING LUA
 [00:00:06]: DoLuaFile scripts/main.lua
 [00:00:06]: DoLuaFile loading buffer scripts/main.lua
-[00:00:07]:   taskgrouplist:	default	Together	
-[00:00:07]:   taskgrouplist:	classic	Classic	
-[00:00:07]:   taskgrouplist:	cave_default	Underground	
-[00:00:07]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:07]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:06]:   taskgrouplist:	default	Together	
+[00:00:06]:   taskgrouplist:	classic	Classic	
+[00:00:06]:   taskgrouplist:	cave_default	Underground	
+[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:06]:   taskgrouplist:	quagmire_taskset	The Gorge	
 [00:00:07]: running main.lua
 	
 [00:00:07]: unloading prefabs for mod MOD_workshop-666155465	
@@ -383,7 +383,7 @@ Process Memory:
 [00:00:08]: loaded saveindex	
 [00:00:08]: OnFilesLoaded()	
 [00:00:08]: OnUpdatePurchaseStateComplete	
-[00:00:08]: Loading world: session/442C017514EFE35F/0000000061	
+[00:00:08]: Loading world: session/442C017514EFE35F/0000000077	
 [00:00:08]: Save file is at version 5.031	
 [00:00:08]: Klump load on boot started.	
 [00:00:08]: Klump files loaded: 	0	
@@ -411,203 +411,1638 @@ Process Memory:
 [00:00:10]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
 [00:00:10]: 	LOAD BE	
 [00:00:20]: 	LOAD BE: done	
-[00:22:40]: Begin Session: 442C017514EFE35F
-[00:22:40]: saving to server_temp/server_save	
-[00:22:40]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[00:22:40]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:22:40]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:22:40]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:22:40]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:22:40]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:22:40]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:22:40]: Loading 16 new character(s)	
-[00:22:41]: Total 16 character(s) loaded	
-[00:22:51]: Loading Nav Grid	
-[00:22:51]: World generated on version 382128, using seed: 1575587620	
-[00:22:51]: setting 	summerlength	15	
-[00:22:51]: setting 	isnightmaredawn	false	
-[00:22:51]: setting 	elapseddaysinseason	8	
-[00:22:51]: setting 	isfullmoon	false	
-[00:22:51]: setting 	moisture	2469.7966308594	
-[00:22:51]: setting 	springlength	20	
-[00:22:51]: setting 	isnightmarewild	false	
-[00:22:51]: setting 	moonphase	new	
-[00:22:51]: setting 	precipitationrate	0	
-[00:22:51]: setting 	iswet	true	
-[00:22:51]: setting 	isnewmoon	false	
-[00:22:51]: setting 	iswinter	false	
-[00:22:51]: setting 	israining	false	
-[00:22:51]: setting 	isnightmarewarn	false	
-[00:22:51]: setting 	precipitation	none	
-[00:22:51]: setting 	cavephase	day	
-[00:22:51]: setting 	moistureceil	4939.5966796875	
-[00:22:51]: setting 	isday	false	
-[00:22:51]: setting 	iscaveday	true	
-[00:22:51]: setting 	season	spring	
-[00:22:51]: setting 	timeinphase	0.99999333333302	
-[00:22:51]: setting 	temperature	14.331959395399	
-[00:22:51]: setting 	isnightmarecalm	true	
-[00:22:51]: setting 	isnight	true	
-[00:22:51]: setting 	isdusk	false	
-[00:22:51]: setting 	iscavedusk	false	
-[00:22:51]: setting 	isautumn	false	
-[00:22:51]: setting 	issnowing	false	
-[00:22:51]: setting 	iswaxingmoon	true	
-[00:22:51]: setting 	pop	0.41966203231883	
-[00:22:51]: setting 	snowlevel	0	
-[00:22:51]: setting 	issnowcovered	false	
-[00:22:51]: setting 	autumnlength	20	
-[00:22:51]: setting 	phase	night	
-[00:22:51]: setting 	nightmaretime	239.97200322029	
-[00:22:51]: setting 	winterlength	15	
-[00:22:51]: setting 	isspring	true	
-[00:22:51]: setting 	nightmarephase	calm	
-[00:22:51]: setting 	remainingdaysinseason	12	
-[00:22:51]: setting 	cycles	43	
-[00:22:51]: setting 	iscavenight	false	
-[00:22:51]: setting 	nightmaretimeinphase	0.66658889783413	
-[00:22:51]: setting 	wetness	24.067234039307	
-[00:22:51]: setting 	time	0.31249791666657	
-[00:22:51]: setting 	issummer	false	
-[00:22:51]: [Shard] Slave is waiting for LUA...
-[00:22:55]: Reconstructing topology	
-[00:22:55]: 	...Sorting points	
-[00:22:55]: 	...Sorting edges	
-[00:22:55]: 	...Connecting nodes	
-[00:22:55]: 	...Validating connections	
-[00:22:55]: 	...Housekeeping	
-[00:22:55]: 	...Done!	
-[00:22:55]: 1 uploads added to server. From server_temp
-[00:22:55]: About to start a shard with these settings:
-[00:22:55]:   ShardName: Caves
-[00:22:55]:   ShardID: 1285804824
-[00:22:55]:   ShardRole: SLAVE
-[00:22:55]:   MasterHost: 127.0.0.1
-[00:22:55]:   MasterBind: (null)
-[00:22:55]:   MasterPort: 10889
-[00:22:55]: [Shard] Connecting to master...
-[00:22:55]: Telling Client our new session identifier: 442C017514EFE35F
-[00:22:55]: Check for write access: TRUE
-[00:22:55]: Check for read access: TRUE
-[00:22:55]: ModIndex: Load sequence finished successfully.	
-[00:22:55]: Reset() returning
-[00:22:55]: [Steam] SteamGameServer_Init(8769, 11001, 27019)
-[00:22:56]: [Steam] SteamGameServer_Init success
-[00:22:56]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:22:56]: Validating portal[7] <-> 1[7] (inactive)	
-[00:22:56]: Validating portal[5] <-> 1[5] (inactive)	
-[00:22:56]: Validating portal[4] <-> 1[4] (inactive)	
-[00:22:56]: Validating portal[1] <-> 1[1] (inactive)	
-[00:22:56]: Validating portal[3] <-> 1[3] (inactive)	
-[00:22:56]: Validating portal[8] <-> 1[8] (inactive)	
-[00:22:56]: Validating portal[2] <-> 1[2] (inactive)	
-[00:22:56]: Validating portal[9] <-> 1[9] (inactive)	
-[00:22:56]: Validating portal[6] <-> 1[6] (inactive)	
-[00:22:56]: Validating portal[10] <-> 1[10] (inactive)	
-[00:22:57]: Gameserver logged on to Steam, assigned identity steamid:90131012436130821
-[00:23:01]: About to start a shard with these settings:
-[00:23:01]:   ShardName: Caves
-[00:23:01]:   ShardID: 1285804824
-[00:23:01]:   ShardRole: SLAVE
-[00:23:01]:   MasterHost: 127.0.0.1
-[00:23:01]:   MasterBind: (null)
-[00:23:01]:   MasterPort: 10889
-[00:23:01]: [Shard] Connecting to master...
-[00:23:11]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:23:15]: RemoteCommandInput: "cc_shutdown(true)"
-[00:23:15]: [string "cc_shutdown(true)"]:1: variable 'cc_shutdown' is not declared
-[00:23:16]: About to start a shard with these settings:
-[00:23:16]:   ShardName: Caves
-[00:23:16]:   ShardID: 1285804824
-[00:23:16]:   ShardRole: SLAVE
-[00:23:16]:   MasterHost: 127.0.0.1
-[00:23:16]:   MasterBind: (null)
-[00:23:16]:   MasterPort: 10889
-[00:23:16]: [Shard] Connecting to master...
-[00:23:26]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:23:31]: About to start a shard with these settings:
-[00:23:31]:   ShardName: Caves
-[00:23:31]:   ShardID: 1285804824
-[00:23:31]:   ShardRole: SLAVE
-[00:23:31]:   MasterHost: 127.0.0.1
-[00:23:31]:   MasterBind: (null)
-[00:23:31]:   MasterPort: 10889
-[00:23:31]: [Shard] Connecting to master...
-[00:23:41]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:23:46]: About to start a shard with these settings:
-[00:23:46]:   ShardName: Caves
-[00:23:46]:   ShardID: 1285804824
-[00:23:46]:   ShardRole: SLAVE
-[00:23:46]:   MasterHost: 127.0.0.1
-[00:23:46]:   MasterBind: (null)
-[00:23:46]:   MasterPort: 10889
-[00:23:46]: [Shard] Connecting to master...
-[00:23:56]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:24:01]: About to start a shard with these settings:
-[00:24:01]:   ShardName: Caves
-[00:24:01]:   ShardID: 1285804824
-[00:24:01]:   ShardRole: SLAVE
-[00:24:01]:   MasterHost: 127.0.0.1
-[00:24:01]:   MasterBind: (null)
-[00:24:01]:   MasterPort: 10889
-[00:24:01]: [Shard] Connecting to master...
-[00:24:11]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:24:16]: About to start a shard with these settings:
-[00:24:16]:   ShardName: Caves
-[00:24:16]:   ShardID: 1285804824
-[00:24:16]:   ShardRole: SLAVE
-[00:24:16]:   MasterHost: 127.0.0.1
-[00:24:16]:   MasterBind: (null)
-[00:24:16]:   MasterPort: 10889
-[00:24:16]: [Shard] Connecting to master...
-[00:24:26]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:24:31]: About to start a shard with these settings:
-[00:24:31]:   ShardName: Caves
-[00:24:31]:   ShardID: 1285804824
-[00:24:31]:   ShardRole: SLAVE
-[00:24:31]:   MasterHost: 127.0.0.1
-[00:24:31]:   MasterBind: (null)
-[00:24:31]:   MasterPort: 10889
-[00:24:31]: [Shard] Connecting to master...
-[00:24:41]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:24:46]: About to start a shard with these settings:
-[00:24:46]:   ShardName: Caves
-[00:24:46]:   ShardID: 1285804824
-[00:24:46]:   ShardRole: SLAVE
-[00:24:46]:   MasterHost: 127.0.0.1
-[00:24:46]:   MasterBind: (null)
-[00:24:46]:   MasterPort: 10889
-[00:24:46]: [Shard] Connecting to master...
-[00:24:56]: [Shard] Connection to master failed. Waiting to reconnect...
-[00:25:01]: About to start a shard with these settings:
-[00:25:01]:   ShardName: Caves
-[00:25:01]:   ShardID: 1285804824
-[00:25:01]:   ShardRole: SLAVE
-[00:25:01]:   MasterHost: 127.0.0.1
-[00:25:01]:   MasterBind: (null)
-[00:25:01]:   MasterPort: 10889
-[00:25:01]: [Shard] Connecting to master...
-[00:25:01]: RemoteCommandInput: "c_shutdown(true)"
-[00:25:01]: c_shutdown	true	
-[00:25:02]: Serializing world: session/442C017514EFE35F/0000000062
-[00:25:02]: Truncating to snapshot #62...
-[00:25:02]:  - session/442C017514EFE35F/0000000056
-[00:25:02]:    1 file(s) removed
-[00:25:02]: Serializing world: session/442C017514EFE35F/0000000063
-[00:25:02]: Truncating to snapshot #63...
-[00:25:02]:  - session/442C017514EFE35F/0000000057
-[00:25:02]:    1 file(s) removed
-[00:25:02]: [Shard] Stopping shard mode
-[00:25:02]: Collecting garbage...
-[00:25:02]: lua_gc took 0.18 seconds
-[00:25:03]: ~ShardLuaProxy()
-[00:25:03]: ~cEventLeaderboardProxy()
-[00:25:03]: ~ItemServerLuaProxy()
-[00:25:03]: ~InventoryLuaProxy()
-[00:25:03]: ~NetworkLuaProxy()
-[00:25:03]: ~SimLuaProxy()
-[00:25:03]: lua_close took 0.24 seconds
-[00:25:03]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
-[00:25:03]: CurlRequestManager::ClientThread::Main() complete
-[00:25:03]: HttpClient2 discarded 0 callbacks.
-[00:25:03]: Shutting down
+[00:00:20]: Begin Session: 442C017514EFE35F
+[00:00:20]: saving to server_temp/server_save	
+[00:00:21]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:21]: Loading 16 new character(s)	
+[00:00:22]: Total 16 character(s) loaded	
+[00:00:32]: Loading Nav Grid	
+[00:00:32]: World generated on version 382128, using seed: 1575587620	
+[00:00:32]: setting 	summerlength	15	
+[00:00:32]: setting 	isnightmaredawn	false	
+[00:00:32]: setting 	elapseddaysinseason	1	
+[00:00:32]: setting 	isfullmoon	false	
+[00:00:32]: setting 	moisture	4255.58984375	
+[00:00:32]: setting 	springlength	20	
+[00:00:32]: setting 	isnightmarewild	false	
+[00:00:32]: setting 	moonphase	new	
+[00:00:32]: setting 	precipitationrate	0	
+[00:00:32]: setting 	iswet	false	
+[00:00:32]: setting 	isnewmoon	false	
+[00:00:32]: setting 	iswinter	false	
+[00:00:32]: setting 	israining	false	
+[00:00:32]: setting 	isnightmarewarn	false	
+[00:00:32]: setting 	precipitation	none	
+[00:00:32]: setting 	cavephase	dusk	
+[00:00:32]: setting 	moistureceil	7591.330078125	
+[00:00:32]: setting 	isday	false	
+[00:00:32]: setting 	iscaveday	false	
+[00:00:32]: setting 	season	summer	
+[00:00:32]: setting 	timeinphase	0.37554812961155	
+[00:00:32]: setting 	temperature	37.029369103762	
+[00:00:32]: setting 	isnightmarecalm	true	
+[00:00:32]: setting 	isnight	true	
+[00:00:32]: setting 	isdusk	false	
+[00:00:32]: setting 	iscavedusk	true	
+[00:00:32]: setting 	isautumn	false	
+[00:00:32]: setting 	issnowing	false	
+[00:00:32]: setting 	iswaxingmoon	true	
+[00:00:32]: setting 	pop	0.020183800982284	
+[00:00:32]: setting 	snowlevel	0	
+[00:00:32]: setting 	issnowcovered	false	
+[00:00:32]: setting 	autumnlength	20	
+[00:00:32]: setting 	phase	night	
+[00:00:32]: setting 	nightmaretime	285.25236724367	
+[00:00:32]: setting 	winterlength	15	
+[00:00:32]: setting 	isspring	false	
+[00:00:32]: setting 	nightmarephase	calm	
+[00:00:32]: setting 	remainingdaysinseason	14	
+[00:00:32]: setting 	cycles	56	
+[00:00:32]: setting 	iscavenight	false	
+[00:00:32]: setting 	nightmaretimeinphase	0.79236768678797	
+[00:00:32]: setting 	wetness	14.469020843506	
+[00:00:32]: setting 	time	0.63291527430216	
+[00:00:32]: setting 	issummer	true	
+[00:00:32]: [Shard] Slave is waiting for LUA...
+[00:00:36]: Reconstructing topology	
+[00:00:36]: 	...Sorting points	
+[00:00:36]: 	...Sorting edges	
+[00:00:36]: 	...Connecting nodes	
+[00:00:36]: 	...Validating connections	
+[00:00:36]: 	...Housekeeping	
+[00:00:36]: 	...Done!	
+[00:00:36]: 1 uploads added to server. From server_temp
+[00:00:36]: About to start a shard with these settings:
+[00:00:36]:   ShardName: Caves
+[00:00:36]:   ShardID: 1285804824
+[00:00:36]:   ShardRole: SLAVE
+[00:00:36]:   MasterHost: 127.0.0.1
+[00:00:36]:   MasterBind: (null)
+[00:00:36]:   MasterPort: 10889
+[00:00:36]: [Shard] Connecting to master...
+[00:00:36]: Telling Client our new session identifier: 442C017514EFE35F
+[00:00:36]: Check for write access: TRUE
+[00:00:36]: Check for read access: TRUE
+[00:00:36]: ModIndex: Load sequence finished successfully.	
+[00:00:36]: Reset() returning
+[00:00:36]: [Steam] SteamGameServer_Init(8769, 11001, 27019)
+[00:00:36]: [Steam] SteamGameServer_Init success
+[00:00:36]: [Shard] Sending slave information to master...
+[00:00:36]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:36]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:36]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:36]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:36]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:36]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:36]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:36]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:36]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:36]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:37]: Gameserver logged on to Steam, assigned identity steamid:90131030485442569
+[00:00:39]: Overriding region to US
+[00:00:39]: Registering slave in US lobby
+[00:00:40]: [Shard] Slave is now ready!
+[00:00:40]: World 1 is now connected	
+[00:00:40]: Validating portal[10] <-> 1[10] (active)	
+[00:00:40]: Validating portal[9] <-> 1[9] (active)	
+[00:00:40]: Validating portal[5] <-> 1[5] (active)	
+[00:00:40]: Validating portal[1] <-> 1[1] (active)	
+[00:00:40]: Validating portal[4] <-> 1[4] (active)	
+[00:00:40]: Validating portal[7] <-> 1[7] (active)	
+[00:00:40]: Validating portal[3] <-> 1[3] (active)	
+[00:00:40]: Validating portal[6] <-> 1[6] (active)	
+[00:00:40]: Validating portal[2] <-> 1[2] (active)	
+[00:00:40]: Validating portal[8] <-> 1[8] (active)	
+[00:00:41]: [Shard] Slave LUA is now ready!
+[00:00:41]: Sim paused
+[00:01:31]: Sim unpaused
+[00:04:29]: Serializing world: session/442C017514EFE35F/0000000078
+[00:04:29]: Truncating to snapshot #78...
+[00:04:29]:  - session/442C017514EFE35F/0000000072
+[00:04:29]:    1 file(s) removed
+[00:05:39]: Registering slave in US lobby
+[00:10:39]: Registering slave in US lobby
+[00:12:29]: Serializing world: session/442C017514EFE35F/0000000079
+[00:12:29]: Truncating to snapshot #79...
+[00:12:29]:  - session/442C017514EFE35F/0000000073
+[00:12:29]:    1 file(s) removed
+[00:15:39]: Registering slave in US lobby
+[00:20:30]: Serializing world: session/442C017514EFE35F/0000000080
+[00:20:30]: Truncating to snapshot #80...
+[00:20:30]:  - session/442C017514EFE35F/0000000074
+[00:20:30]:    1 file(s) removed
+[00:20:39]: Registering slave in US lobby
+[00:25:39]: Registering slave in US lobby
+[00:28:31]: Serializing world: session/442C017514EFE35F/0000000081
+[00:28:31]: Truncating to snapshot #81...
+[00:28:31]:  - session/442C017514EFE35F/0000000075
+[00:28:31]:    1 file(s) removed
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_84Tfun2u) from TokenPurpose
+[00:30:39]: Registering slave in US lobby
+[00:35:39]: Registering slave in US lobby
+[00:36:31]: Serializing world: session/442C017514EFE35F/0000000082
+[00:36:31]: Truncating to snapshot #82...
+[00:36:31]:  - session/442C017514EFE35F/0000000076
+[00:36:31]:    1 file(s) removed
+[00:40:39]: Registering slave in US lobby
+[00:44:32]: Serializing world: session/442C017514EFE35F/0000000083
+[00:44:32]: Truncating to snapshot #83...
+[00:44:32]:  - session/442C017514EFE35F/0000000077
+[00:44:32]:    1 file(s) removed
+[00:45:39]: Registering slave in US lobby
+[00:50:39]: Registering slave in US lobby
+[00:52:33]: Serializing world: session/442C017514EFE35F/0000000084
+[00:52:33]: Truncating to snapshot #84...
+[00:52:33]:  - session/442C017514EFE35F/0000000078
+[00:52:33]:    1 file(s) removed
+[00:55:39]: Registering slave in US lobby
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_84Tfun2u) from TokenPurpose
+[01:00:34]: Serializing world: session/442C017514EFE35F/0000000085
+[01:00:34]: Truncating to snapshot #85...
+[01:00:34]:  - session/442C017514EFE35F/0000000079
+[01:00:34]:    1 file(s) removed
+[01:00:39]: Registering slave in US lobby
+[01:05:39]: Registering slave in US lobby
+[01:08:35]: Serializing world: session/442C017514EFE35F/0000000086
+[01:08:35]: Truncating to snapshot #86...
+[01:08:35]:  - session/442C017514EFE35F/0000000080
+[01:08:35]:    1 file(s) removed
+[01:10:39]: Registering slave in US lobby
+[01:15:39]: Registering slave in US lobby
+[01:16:35]: Serializing world: session/442C017514EFE35F/0000000087
+[01:16:35]: Truncating to snapshot #87...
+[01:16:35]:  - session/442C017514EFE35F/0000000081
+[01:16:35]:    1 file(s) removed
+[01:20:39]: Registering slave in US lobby
+[01:24:36]: Serializing world: session/442C017514EFE35F/0000000088
+[01:24:36]: Truncating to snapshot #88...
+[01:24:36]:  - session/442C017514EFE35F/0000000082
+[01:24:36]:    1 file(s) removed
+[01:25:39]: Registering slave in US lobby
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_84Tfun2u) from TokenPurpose
+[01:30:39]: Registering slave in US lobby
+[01:32:37]: Serializing world: session/442C017514EFE35F/0000000089
+[01:32:37]: Truncating to snapshot #89...
+[01:32:37]:  - session/442C017514EFE35F/0000000083
+[01:32:37]:    1 file(s) removed
+[01:35:39]: Registering slave in US lobby
+[01:40:38]: Serializing world: session/442C017514EFE35F/0000000090
+[01:40:38]: Truncating to snapshot #90...
+[01:40:38]:  - session/442C017514EFE35F/0000000084
+[01:40:38]:    1 file(s) removed
+[01:40:39]: Registering slave in US lobby
+[01:45:39]: Registering slave in US lobby
+[01:48:38]: Serializing world: session/442C017514EFE35F/0000000091
+[01:48:39]: Truncating to snapshot #91...
+[01:48:39]:  - session/442C017514EFE35F/0000000085
+[01:48:39]:    1 file(s) removed
+[01:50:39]: Registering slave in US lobby
+[01:51:19]: World 1 is now disconnected	
+[01:51:19]: Validating portal[10] <-> 1[10] (inactive)	
+[01:51:19]: Validating portal[9] <-> 1[9] (inactive)	
+[01:51:19]: Validating portal[5] <-> 1[5] (inactive)	
+[01:51:19]: Validating portal[1] <-> 1[1] (inactive)	
+[01:51:19]: Validating portal[4] <-> 1[4] (inactive)	
+[01:51:19]: Validating portal[7] <-> 1[7] (inactive)	
+[01:51:19]: Validating portal[3] <-> 1[3] (inactive)	
+[01:51:19]: Validating portal[6] <-> 1[6] (inactive)	
+[01:51:19]: Validating portal[2] <-> 1[2] (inactive)	
+[01:51:19]: Validating portal[8] <-> 1[8] (inactive)	
+[01:51:19]: Sim paused
+[01:51:38]: Synchronizing backward to master snapshot 91	
+[01:51:38]: World 1 is now connected	
+[01:51:38]: Validating portal[10] <-> 1[10] (active)	
+[01:51:38]: Validating portal[9] <-> 1[9] (active)	
+[01:51:38]: Validating portal[5] <-> 1[5] (active)	
+[01:51:38]: Validating portal[1] <-> 1[1] (active)	
+[01:51:38]: Validating portal[4] <-> 1[4] (active)	
+[01:51:38]: Validating portal[7] <-> 1[7] (active)	
+[01:51:38]: Validating portal[3] <-> 1[3] (active)	
+[01:51:38]: Validating portal[6] <-> 1[6] (active)	
+[01:51:38]: Validating portal[2] <-> 1[2] (active)	
+[01:51:38]: Validating portal[8] <-> 1[8] (active)	
+[01:51:38]: Sim unpaused
+[01:51:38]: Collecting garbage...
+[01:51:38]: lua_gc took 0.12 seconds
+[01:51:38]: ~ShardLuaProxy()
+[01:51:38]: ~cEventLeaderboardProxy()
+[01:51:38]: ~ItemServerLuaProxy()
+[01:51:38]: ~InventoryLuaProxy()
+[01:51:38]: ~NetworkLuaProxy()
+[01:51:38]: ~SimLuaProxy()
+[01:51:39]: lua_close took 0.34 seconds
+[01:51:39]: ReleaseAll
+[01:51:39]: ReleaseAll Finished
+[01:51:39]: cGame::StartPlaying
+[01:51:39]: LOADING LUA
+[01:51:39]: DoLuaFile scripts/main.lua
+[01:51:39]: DoLuaFile loading buffer scripts/main.lua
+[01:51:39]:   taskgrouplist:	default	Together	
+[01:51:39]:   taskgrouplist:	classic	Classic	
+[01:51:39]:   taskgrouplist:	cave_default	Underground	
+[01:51:39]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[01:51:39]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[01:51:39]: running main.lua
+	
+[01:51:39]: unloading prefabs for mod MOD_workshop-666155465	
+[01:51:39]: unloading prefabs for mod MOD_workshop-1582864428	
+[01:51:39]: unloading prefabs for mod MOD_workshop-378160973	
+[01:51:39]: loaded modindex	
+[01:51:39]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[01:51:39]: modoverrides.lua enabling workshop-378160973	
+[01:51:39]: modoverrides.lua enabling workshop-1582864428	
+[01:51:39]: modoverrides.lua enabling workshop-666155465	
+[01:51:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[01:51:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:51:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[01:51:39]: Could not load mod_config_data/modconfiguration_workshop-1582864428	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:51:39]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:51:39]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[01:51:39]: Overriding mod workshop-666155465's option chestR with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_style with value 0	
+[01:51:39]: Overriding mod workshop-666155465's option show_uses with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option lang with value auto	
+[01:51:39]: Overriding mod workshop-666155465's option chestB with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_order with value 0	
+[01:51:39]: Overriding mod workshop-666155465's option chestG with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[01:51:39]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
+[01:51:39]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:51:39]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:51:39]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[01:51:39]: Overriding mod workshop-666155465's option chestR with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_style with value 0	
+[01:51:39]: Overriding mod workshop-666155465's option show_uses with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option lang with value auto	
+[01:51:39]: Overriding mod workshop-666155465's option chestB with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_order with value 0	
+[01:51:39]: Overriding mod workshop-666155465's option chestG with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[01:51:39]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:51:39]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:51:39]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:51:39]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:51:39]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:51:39]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[01:51:39]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[01:51:39]: Overriding mod workshop-666155465's option chestR with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_style with value 0	
+[01:51:39]: Overriding mod workshop-666155465's option show_uses with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option lang with value auto	
+[01:51:39]: Overriding mod workshop-666155465's option chestB with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_order with value 0	
+[01:51:39]: Overriding mod workshop-666155465's option chestG with value -1	
+[01:51:39]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[01:51:39]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.49	
+[01:51:39]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[01:51:39]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[01:51:39]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[01:51:39]: ShowMe version:	0.49	
+[01:51:39]: show_food_units	-1	-1	-1	
+[01:51:39]: show_uses	-1	-1	-1	
+[01:51:39]: Mod: workshop-1582864428 (Don't Reset World)	Loading modworldgenmain.lua	
+[01:51:39]: Mod: workshop-1582864428 (Don't Reset World)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:51:39]: Mod: workshop-1582864428 (Don't Reset World)	Loading modmain.lua	
+[01:51:39]: World reset has disabled	
+[01:51:39]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:51:39]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:51:39]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[01:51:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[01:51:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:51:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[01:51:40]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:51:40]: LOADING LUA SUCCESS
+[01:51:40]: Registering mod namespace "showmeshint"
+[01:51:40]: Registering mod namespace "workshop-378160973"
+[01:51:40]: Registering mod namespace "showme"
+[01:51:40]: PlayerDeaths could not load morgue	
+[01:51:40]: PlayerHistory could not load player_history	
+[01:51:40]: ServerPreferences could not load server_preferences	
+[01:51:40]: bloom_enabled	false	
+[01:51:40]: loaded saveindex	
+[01:51:40]: OnFilesLoaded()	
+[01:51:40]: OnUpdatePurchaseStateComplete	
+[01:51:40]: Loading world: session/442C017514EFE35F/0000000091	
+[01:51:40]: Save file is at version 5.031	
+[01:51:40]: Klump load on boot started.	
+[01:51:40]: Klump files loaded: 	0	
+[01:51:40]: 	Unload characters	
+[01:51:40]: 	BE assets already loaded	
+[01:51:42]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[01:51:42]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[01:51:42]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
+[01:51:42]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[01:51:42]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[01:51:42]: Begin Session: 442C017514EFE35F
+[01:51:42]: Stomping previously assigned session identifier, two loads issued.
+[01:51:43]: saving to server_temp/server_save	
+[01:51:43]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:51:43]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[01:51:43]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[01:51:43]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[01:51:43]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[01:51:43]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[01:51:43]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[01:51:43]: Loading 16 new character(s)	
+[01:51:44]: Total 16 character(s) loaded	
+[01:51:53]: Loading Nav Grid	
+[01:51:54]: World generated on version 382128, using seed: 1575587620	
+[01:51:54]: setting 	summerlength	15	
+[01:51:54]: setting 	isnightmaredawn	false	
+[01:51:54]: setting 	elapseddaysinseason	0	
+[01:51:54]: setting 	isfullmoon	false	
+[01:51:54]: setting 	moisture	5653.4077148438	
+[01:51:54]: setting 	springlength	20	
+[01:51:54]: setting 	isnightmarewild	false	
+[01:51:54]: setting 	moonphase	new	
+[01:51:54]: setting 	precipitationrate	0	
+[01:51:54]: setting 	iswet	false	
+[01:51:54]: setting 	isnewmoon	false	
+[01:51:54]: setting 	iswinter	false	
+[01:51:54]: setting 	israining	false	
+[01:51:54]: setting 	isnightmarewarn	false	
+[01:51:54]: setting 	precipitation	none	
+[01:51:54]: setting 	cavephase	day	
+[01:51:54]: setting 	moistureceil	7591.330078125	
+[01:51:54]: setting 	isday	false	
+[01:51:54]: setting 	iscaveday	true	
+[01:51:54]: setting 	season	autumn	
+[01:51:54]: setting 	timeinphase	0.0035248819986979	
+[01:51:54]: setting 	temperature	31.650917277726	
+[01:51:54]: setting 	isnightmarecalm	true	
+[01:51:54]: setting 	isnight	true	
+[01:51:54]: setting 	isdusk	false	
+[01:51:54]: setting 	iscavedusk	false	
+[01:51:54]: setting 	isautumn	true	
+[01:51:54]: setting 	issnowing	false	
+[01:51:54]: setting 	iswaxingmoon	true	
+[01:51:54]: setting 	pop	0.43076870782253	
+[01:51:54]: setting 	snowlevel	0	
+[01:51:54]: setting 	issnowcovered	false	
+[01:51:54]: setting 	autumnlength	20	
+[01:51:54]: setting 	phase	night	
+[01:51:54]: setting 	nightmaretime	50.901935341827	
+[01:51:54]: setting 	winterlength	15	
+[01:51:54]: setting 	isspring	false	
+[01:51:54]: setting 	nightmarephase	calm	
+[01:51:54]: setting 	remainingdaysinseason	20	
+[01:51:54]: setting 	cycles	70	
+[01:51:54]: setting 	iscavenight	false	
+[01:51:54]: setting 	nightmaretimeinphase	0.14139426483841	
+[01:51:54]: setting 	wetness	0	
+[01:51:54]: setting 	time	0.0022030512491862	
+[01:51:54]: setting 	issummer	false	
+[01:51:58]: Reconstructing topology	
+[01:51:58]: 	...Sorting points	
+[01:51:58]: 	...Sorting edges	
+[01:51:58]: 	...Connecting nodes	
+[01:51:58]: 	...Validating connections	
+[01:51:58]: 	...Housekeeping	
+[01:51:58]: 	...Done!	
+[01:51:58]: 1 uploads added to server. From server_temp
+[01:51:58]: World 1 is now connected	
+[01:51:58]: Telling Client our new session identifier: 442C017514EFE35F
+[01:51:58]: Check for write access: TRUE
+[01:51:58]: Check for read access: TRUE
+[01:51:58]: ModIndex: Load sequence finished successfully.	
+[01:51:58]: Reset() returning
+[01:51:58]: Validating portal[7] <-> 1[7] (active)	
+[01:51:58]: Validating portal[4] <-> 1[4] (active)	
+[01:51:58]: Validating portal[9] <-> 1[9] (active)	
+[01:51:58]: Validating portal[10] <-> 1[10] (active)	
+[01:51:58]: Validating portal[5] <-> 1[5] (active)	
+[01:51:58]: Validating portal[6] <-> 1[6] (active)	
+[01:51:58]: Validating portal[2] <-> 1[2] (active)	
+[01:51:58]: Validating portal[1] <-> 1[1] (active)	
+[01:51:58]: Validating portal[3] <-> 1[3] (active)	
+[01:51:58]: Validating portal[8] <-> 1[8] (active)	
+[01:53:34]: Sim paused
+[01:53:48]: Registering slave in US lobby
+[01:53:59]: CURL ERROR: (lobby-us.kleientertainment.com) Could not resolve host: lobby-us.kleientertainment.com
+[01:53:59]: Failed to send shard broadcast message
+[01:55:03]: Gameserver logged on to Steam, assigned identity steamid:90131030485442569
+[01:55:03]: Registering slave in US lobby
+[01:58:03]: RemoteCommandInput: "DebugSpawn ("chester")"
+[02:00:03]: Registering slave in US lobby
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_84Tfun2u) from TokenPurpose
+[02:05:03]: Registering slave in US lobby
+[02:06:21]: Sim unpaused
+[02:10:03]: Registering slave in US lobby
+[02:12:37]: Serializing world: session/442C017514EFE35F/0000000092
+[02:12:37]: Truncating to snapshot #92...
+[02:12:37]:  - session/442C017514EFE35F/0000000086
+[02:12:37]:    1 file(s) removed
+[02:15:03]: Registering slave in US lobby
+[02:15:49]: World 1 is now disconnected	
+[02:15:49]: Validating portal[7] <-> 1[7] (inactive)	
+[02:15:49]: Validating portal[4] <-> 1[4] (inactive)	
+[02:15:49]: Validating portal[9] <-> 1[9] (inactive)	
+[02:15:49]: Validating portal[10] <-> 1[10] (inactive)	
+[02:15:49]: Validating portal[5] <-> 1[5] (inactive)	
+[02:15:49]: Validating portal[6] <-> 1[6] (inactive)	
+[02:15:49]: Validating portal[2] <-> 1[2] (inactive)	
+[02:15:49]: Validating portal[1] <-> 1[1] (inactive)	
+[02:15:49]: Validating portal[3] <-> 1[3] (inactive)	
+[02:15:49]: Validating portal[8] <-> 1[8] (inactive)	
+[02:15:49]: Sim paused
+[02:16:08]: Synchronizing backward to master snapshot 92	
+[02:16:08]: World 1 is now connected	
+[02:16:08]: Validating portal[7] <-> 1[7] (active)	
+[02:16:08]: Validating portal[4] <-> 1[4] (active)	
+[02:16:08]: Validating portal[9] <-> 1[9] (active)	
+[02:16:08]: Validating portal[10] <-> 1[10] (active)	
+[02:16:08]: Validating portal[5] <-> 1[5] (active)	
+[02:16:08]: Validating portal[6] <-> 1[6] (active)	
+[02:16:08]: Validating portal[2] <-> 1[2] (active)	
+[02:16:08]: Validating portal[1] <-> 1[1] (active)	
+[02:16:08]: Validating portal[3] <-> 1[3] (active)	
+[02:16:08]: Validating portal[8] <-> 1[8] (active)	
+[02:16:08]: Sim unpaused
+[02:16:08]: Collecting garbage...
+[02:16:08]: lua_gc took 0.13 seconds
+[02:16:08]: ~ShardLuaProxy()
+[02:16:08]: ~cEventLeaderboardProxy()
+[02:16:08]: ~ItemServerLuaProxy()
+[02:16:08]: ~InventoryLuaProxy()
+[02:16:08]: ~NetworkLuaProxy()
+[02:16:08]: ~SimLuaProxy()
+[02:16:09]: lua_close took 0.33 seconds
+[02:16:09]: ReleaseAll
+[02:16:09]: ReleaseAll Finished
+[02:16:09]: cGame::StartPlaying
+[02:16:09]: LOADING LUA
+[02:16:09]: DoLuaFile scripts/main.lua
+[02:16:09]: DoLuaFile loading buffer scripts/main.lua
+[02:16:09]:   taskgrouplist:	default	Together	
+[02:16:09]:   taskgrouplist:	classic	Classic	
+[02:16:09]:   taskgrouplist:	cave_default	Underground	
+[02:16:09]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[02:16:09]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[02:16:09]: running main.lua
+	
+[02:16:09]: unloading prefabs for mod MOD_workshop-666155465	
+[02:16:09]: unloading prefabs for mod MOD_workshop-1582864428	
+[02:16:09]: unloading prefabs for mod MOD_workshop-378160973	
+[02:16:09]: loaded modindex	
+[02:16:09]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[02:16:09]: modoverrides.lua enabling workshop-378160973	
+[02:16:09]: modoverrides.lua enabling workshop-1582864428	
+[02:16:09]: modoverrides.lua enabling workshop-666155465	
+[02:16:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:16:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:16:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:16:09]: Could not load mod_config_data/modconfiguration_workshop-1582864428	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:16:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:16:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:16:09]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:16:09]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option lang with value auto	
+[02:16:09]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:16:09]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:16:09]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
+[02:16:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:16:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:16:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:16:09]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:16:09]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option lang with value auto	
+[02:16:09]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:16:09]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:16:09]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[02:16:09]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:16:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:16:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:16:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:16:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:16:09]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:16:09]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:16:09]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option lang with value auto	
+[02:16:09]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:16:09]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:16:09]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:16:09]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.49	
+[02:16:09]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[02:16:09]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[02:16:09]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[02:16:09]: ShowMe version:	0.49	
+[02:16:09]: show_food_units	-1	-1	-1	
+[02:16:09]: show_uses	-1	-1	-1	
+[02:16:09]: Mod: workshop-1582864428 (Don't Reset World)	Loading modworldgenmain.lua	
+[02:16:09]: Mod: workshop-1582864428 (Don't Reset World)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:16:09]: Mod: workshop-1582864428 (Don't Reset World)	Loading modmain.lua	
+[02:16:09]: World reset has disabled	
+[02:16:09]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[02:16:09]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:16:09]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[02:16:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:16:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:16:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:16:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[02:16:10]: LOADING LUA SUCCESS
+[02:16:10]: Registering mod namespace "showmeshint"
+[02:16:10]: Registering mod namespace "workshop-378160973"
+[02:16:10]: Registering mod namespace "showme"
+[02:16:10]: PlayerDeaths could not load morgue	
+[02:16:10]: PlayerHistory could not load player_history	
+[02:16:10]: ServerPreferences could not load server_preferences	
+[02:16:10]: bloom_enabled	false	
+[02:16:10]: loaded saveindex	
+[02:16:10]: OnFilesLoaded()	
+[02:16:10]: OnUpdatePurchaseStateComplete	
+[02:16:10]: Loading world: session/442C017514EFE35F/0000000092	
+[02:16:10]: Save file is at version 5.031	
+[02:16:10]: Klump load on boot started.	
+[02:16:10]: Klump files loaded: 	0	
+[02:16:10]: 	Unload characters	
+[02:16:10]: 	BE assets already loaded	
+[02:16:12]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[02:16:12]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[02:16:12]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
+[02:16:12]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[02:16:12]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[02:16:13]: Begin Session: 442C017514EFE35F
+[02:16:13]: Stomping previously assigned session identifier, two loads issued.
+[02:16:13]: saving to server_temp/server_save	
+[02:16:13]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[02:16:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[02:16:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[02:16:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[02:16:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[02:16:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[02:16:13]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[02:16:13]: Loading 16 new character(s)	
+[02:16:14]: Total 16 character(s) loaded	
+[02:16:24]: Loading Nav Grid	
+[02:16:24]: World generated on version 382128, using seed: 1575587620	
+[02:16:24]: setting 	summerlength	15	
+[02:16:24]: setting 	isnightmaredawn	false	
+[02:16:24]: setting 	elapseddaysinseason	1	
+[02:16:24]: setting 	isfullmoon	false	
+[02:16:24]: setting 	moisture	6123.3764648438	
+[02:16:24]: setting 	springlength	20	
+[02:16:24]: setting 	isnightmarewild	false	
+[02:16:24]: setting 	moonphase	new	
+[02:16:24]: setting 	precipitationrate	0	
+[02:16:24]: setting 	iswet	false	
+[02:16:24]: setting 	isnewmoon	false	
+[02:16:24]: setting 	iswinter	false	
+[02:16:24]: setting 	israining	false	
+[02:16:24]: setting 	isnightmarewarn	true	
+[02:16:24]: setting 	precipitation	none	
+[02:16:24]: setting 	cavephase	day	
+[02:16:24]: setting 	moistureceil	7591.330078125	
+[02:16:24]: setting 	isday	false	
+[02:16:24]: setting 	iscaveday	true	
+[02:16:24]: setting 	season	autumn	
+[02:16:24]: setting 	timeinphase	0.0038410328052662	
+[02:16:24]: setting 	temperature	32.221355607553	
+[02:16:24]: setting 	isnightmarecalm	false	
+[02:16:24]: setting 	isnight	true	
+[02:16:24]: setting 	isdusk	false	
+[02:16:24]: setting 	iscavedusk	false	
+[02:16:24]: setting 	isautumn	true	
+[02:16:24]: setting 	issnowing	false	
+[02:16:24]: setting 	iswaxingmoon	true	
+[02:16:24]: setting 	pop	0.56881392775207	
+[02:16:24]: setting 	snowlevel	0	
+[02:16:24]: setting 	issnowcovered	false	
+[02:16:24]: setting 	autumnlength	20	
+[02:16:24]: setting 	phase	night	
+[02:16:24]: setting 	nightmaretime	439.54229406554	
+[02:16:24]: setting 	winterlength	15	
+[02:16:24]: setting 	isspring	false	
+[02:16:24]: setting 	nightmarephase	warn	
+[02:16:24]: setting 	remainingdaysinseason	19	
+[02:16:24]: setting 	cycles	71	
+[02:16:24]: setting 	iscavenight	false	
+[02:16:24]: setting 	nightmaretimeinphase	0.88380326739494	
+[02:16:24]: setting 	wetness	0	
+[02:16:24]: setting 	time	0.0021605809529622	
+[02:16:24]: setting 	issummer	false	
+[02:16:28]: Reconstructing topology	
+[02:16:28]: 	...Sorting points	
+[02:16:28]: 	...Sorting edges	
+[02:16:28]: 	...Connecting nodes	
+[02:16:28]: 	...Validating connections	
+[02:16:28]: 	...Housekeeping	
+[02:16:28]: 	...Done!	
+[02:16:28]: 1 uploads added to server. From server_temp
+[02:16:28]: World 1 is now connected	
+[02:16:28]: Telling Client our new session identifier: 442C017514EFE35F
+[02:16:28]: Check for write access: TRUE
+[02:16:28]: Check for read access: TRUE
+[02:16:28]: ModIndex: Load sequence finished successfully.	
+[02:16:28]: Reset() returning
+[02:16:28]: Validating portal[3] <-> 1[3] (active)	
+[02:16:28]: Validating portal[5] <-> 1[5] (active)	
+[02:16:28]: Validating portal[2] <-> 1[2] (active)	
+[02:16:28]: Validating portal[10] <-> 1[10] (active)	
+[02:16:28]: Validating portal[1] <-> 1[1] (active)	
+[02:16:28]: Validating portal[7] <-> 1[7] (active)	
+[02:16:28]: Validating portal[6] <-> 1[6] (active)	
+[02:16:29]: Validating portal[8] <-> 1[8] (active)	
+[02:16:29]: Validating portal[9] <-> 1[9] (active)	
+[02:16:29]: Validating portal[4] <-> 1[4] (active)	
+[02:16:31]: World 1 is now disconnected	
+[02:16:31]: Validating portal[3] <-> 1[3] (inactive)	
+[02:16:31]: Validating portal[5] <-> 1[5] (inactive)	
+[02:16:31]: Validating portal[2] <-> 1[2] (inactive)	
+[02:16:31]: Validating portal[10] <-> 1[10] (inactive)	
+[02:16:31]: Validating portal[1] <-> 1[1] (inactive)	
+[02:16:31]: Validating portal[7] <-> 1[7] (inactive)	
+[02:16:31]: Validating portal[6] <-> 1[6] (inactive)	
+[02:16:31]: Validating portal[8] <-> 1[8] (inactive)	
+[02:16:31]: Validating portal[9] <-> 1[9] (inactive)	
+[02:16:31]: Validating portal[4] <-> 1[4] (inactive)	
+[02:16:31]: Sim paused
+[02:16:50]: Synchronizing backward to master snapshot 91	
+[02:16:50]: Truncating to snapshot #91...
+[02:16:50]:  - session/442C017514EFE35F/0000000092
+[02:16:50]:    1 file(s) removed
+[02:16:50]: World 1 is now connected	
+[02:16:50]: Validating portal[3] <-> 1[3] (active)	
+[02:16:50]: Validating portal[5] <-> 1[5] (active)	
+[02:16:50]: Validating portal[2] <-> 1[2] (active)	
+[02:16:50]: Validating portal[10] <-> 1[10] (active)	
+[02:16:50]: Validating portal[1] <-> 1[1] (active)	
+[02:16:50]: Validating portal[7] <-> 1[7] (active)	
+[02:16:50]: Validating portal[6] <-> 1[6] (active)	
+[02:16:50]: Validating portal[8] <-> 1[8] (active)	
+[02:16:50]: Validating portal[9] <-> 1[9] (active)	
+[02:16:50]: Validating portal[4] <-> 1[4] (active)	
+[02:16:50]: Sim unpaused
+[02:16:50]: Collecting garbage...
+[02:16:50]: lua_gc took 0.14 seconds
+[02:16:50]: ~ShardLuaProxy()
+[02:16:50]: ~cEventLeaderboardProxy()
+[02:16:50]: ~ItemServerLuaProxy()
+[02:16:50]: ~InventoryLuaProxy()
+[02:16:50]: ~NetworkLuaProxy()
+[02:16:50]: ~SimLuaProxy()
+[02:16:50]: lua_close took 0.33 seconds
+[02:16:50]: ReleaseAll
+[02:16:50]: ReleaseAll Finished
+[02:16:50]: cGame::StartPlaying
+[02:16:50]: LOADING LUA
+[02:16:50]: DoLuaFile scripts/main.lua
+[02:16:50]: DoLuaFile loading buffer scripts/main.lua
+[02:16:51]:   taskgrouplist:	default	Together	
+[02:16:51]:   taskgrouplist:	classic	Classic	
+[02:16:51]:   taskgrouplist:	cave_default	Underground	
+[02:16:51]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[02:16:51]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[02:16:51]: running main.lua
+	
+[02:16:51]: unloading prefabs for mod MOD_workshop-666155465	
+[02:16:51]: unloading prefabs for mod MOD_workshop-1582864428	
+[02:16:51]: unloading prefabs for mod MOD_workshop-378160973	
+[02:16:51]: loaded modindex	
+[02:16:51]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[02:16:51]: modoverrides.lua enabling workshop-378160973	
+[02:16:51]: modoverrides.lua enabling workshop-1582864428	
+[02:16:51]: modoverrides.lua enabling workshop-666155465	
+[02:16:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:16:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:16:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:16:51]: Could not load mod_config_data/modconfiguration_workshop-1582864428	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:16:51]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:16:51]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:16:51]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:16:51]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option lang with value auto	
+[02:16:51]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:16:51]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:16:51]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
+[02:16:51]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:16:51]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:16:51]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:16:51]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:16:51]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option lang with value auto	
+[02:16:51]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:16:51]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:16:51]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[02:16:51]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:16:51]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:16:51]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:16:51]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:16:51]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:16:51]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:16:51]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:16:51]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option lang with value auto	
+[02:16:51]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:16:51]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:16:51]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:16:51]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.49	
+[02:16:51]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[02:16:51]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[02:16:51]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[02:16:51]: ShowMe version:	0.49	
+[02:16:51]: show_food_units	-1	-1	-1	
+[02:16:51]: show_uses	-1	-1	-1	
+[02:16:51]: Mod: workshop-1582864428 (Don't Reset World)	Loading modworldgenmain.lua	
+[02:16:51]: Mod: workshop-1582864428 (Don't Reset World)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:16:51]: Mod: workshop-1582864428 (Don't Reset World)	Loading modmain.lua	
+[02:16:51]: World reset has disabled	
+[02:16:51]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[02:16:51]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:16:51]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[02:16:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:16:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:16:51]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:16:52]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[02:16:52]: LOADING LUA SUCCESS
+[02:16:52]: Registering mod namespace "showmeshint"
+[02:16:52]: Registering mod namespace "workshop-378160973"
+[02:16:52]: Registering mod namespace "showme"
+[02:16:52]: PlayerDeaths could not load morgue	
+[02:16:52]: PlayerHistory could not load player_history	
+[02:16:52]: ServerPreferences could not load server_preferences	
+[02:16:52]: bloom_enabled	false	
+[02:16:52]: loaded saveindex	
+[02:16:52]: OnFilesLoaded()	
+[02:16:52]: OnUpdatePurchaseStateComplete	
+[02:16:52]: Loading world: session/442C017514EFE35F/0000000091	
+[02:16:52]: Save file is at version 5.031	
+[02:16:52]: Klump load on boot started.	
+[02:16:52]: Klump files loaded: 	0	
+[02:16:52]: 	Unload characters	
+[02:16:52]: 	BE assets already loaded	
+[02:16:54]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[02:16:54]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[02:16:54]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
+[02:16:54]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[02:16:54]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[02:16:54]: Begin Session: 442C017514EFE35F
+[02:16:54]: Stomping previously assigned session identifier, two loads issued.
+[02:16:54]: saving to server_temp/server_save	
+[02:16:55]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[02:16:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[02:16:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[02:16:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[02:16:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[02:16:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[02:16:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[02:16:55]: Loading 16 new character(s)	
+[02:16:55]: Total 16 character(s) loaded	
+[02:17:06]: Loading Nav Grid	
+[02:17:06]: World generated on version 382128, using seed: 1575587620	
+[02:17:06]: setting 	summerlength	15	
+[02:17:06]: setting 	isnightmaredawn	false	
+[02:17:06]: setting 	elapseddaysinseason	0	
+[02:17:06]: setting 	isfullmoon	false	
+[02:17:06]: setting 	moisture	5653.4077148438	
+[02:17:06]: setting 	springlength	20	
+[02:17:06]: setting 	isnightmarewild	false	
+[02:17:06]: setting 	moonphase	new	
+[02:17:06]: setting 	precipitationrate	0	
+[02:17:06]: setting 	iswet	false	
+[02:17:06]: setting 	isnewmoon	false	
+[02:17:06]: setting 	iswinter	false	
+[02:17:06]: setting 	israining	false	
+[02:17:06]: setting 	isnightmarewarn	false	
+[02:17:06]: setting 	precipitation	none	
+[02:17:06]: setting 	cavephase	day	
+[02:17:06]: setting 	moistureceil	7591.330078125	
+[02:17:06]: setting 	isday	false	
+[02:17:06]: setting 	iscaveday	true	
+[02:17:06]: setting 	season	autumn	
+[02:17:06]: setting 	timeinphase	0.0035248819986979	
+[02:17:06]: setting 	temperature	31.650917277726	
+[02:17:06]: setting 	isnightmarecalm	true	
+[02:17:06]: setting 	isnight	true	
+[02:17:06]: setting 	isdusk	false	
+[02:17:06]: setting 	iscavedusk	false	
+[02:17:06]: setting 	isautumn	true	
+[02:17:06]: setting 	issnowing	false	
+[02:17:06]: setting 	iswaxingmoon	true	
+[02:17:06]: setting 	pop	0.43076870782253	
+[02:17:06]: setting 	snowlevel	0	
+[02:17:06]: setting 	issnowcovered	false	
+[02:17:06]: setting 	autumnlength	20	
+[02:17:06]: setting 	phase	night	
+[02:17:06]: setting 	nightmaretime	50.901935341827	
+[02:17:06]: setting 	winterlength	15	
+[02:17:06]: setting 	isspring	false	
+[02:17:06]: setting 	nightmarephase	calm	
+[02:17:06]: setting 	remainingdaysinseason	20	
+[02:17:06]: setting 	cycles	70	
+[02:17:06]: setting 	iscavenight	false	
+[02:17:06]: setting 	nightmaretimeinphase	0.14139426483841	
+[02:17:06]: setting 	wetness	0	
+[02:17:06]: setting 	time	0.0022030512491862	
+[02:17:06]: setting 	issummer	false	
+[02:17:10]: Reconstructing topology	
+[02:17:10]: 	...Sorting points	
+[02:17:10]: 	...Sorting edges	
+[02:17:10]: 	...Connecting nodes	
+[02:17:10]: 	...Validating connections	
+[02:17:10]: 	...Housekeeping	
+[02:17:10]: 	...Done!	
+[02:17:10]: 1 uploads added to server. From server_temp
+[02:17:10]: World 1 is now connected	
+[02:17:10]: Telling Client our new session identifier: 442C017514EFE35F
+[02:17:10]: Check for write access: TRUE
+[02:17:10]: Check for read access: TRUE
+[02:17:10]: ModIndex: Load sequence finished successfully.	
+[02:17:10]: Reset() returning
+[02:17:11]: Validating portal[7] <-> 1[7] (active)	
+[02:17:11]: Validating portal[9] <-> 1[9] (active)	
+[02:17:11]: Validating portal[1] <-> 1[1] (active)	
+[02:17:11]: Validating portal[8] <-> 1[8] (active)	
+[02:17:11]: Validating portal[5] <-> 1[5] (active)	
+[02:17:11]: Validating portal[6] <-> 1[6] (active)	
+[02:17:11]: Validating portal[2] <-> 1[2] (active)	
+[02:17:11]: Validating portal[10] <-> 1[10] (active)	
+[02:17:11]: Validating portal[4] <-> 1[4] (active)	
+[02:17:11]: Validating portal[3] <-> 1[3] (active)	
+[02:20:03]: Registering slave in US lobby
+[02:22:42]: World 1 is now disconnected	
+[02:22:42]: Validating portal[7] <-> 1[7] (inactive)	
+[02:22:42]: Validating portal[9] <-> 1[9] (inactive)	
+[02:22:42]: Validating portal[1] <-> 1[1] (inactive)	
+[02:22:42]: Validating portal[8] <-> 1[8] (inactive)	
+[02:22:42]: Validating portal[5] <-> 1[5] (inactive)	
+[02:22:42]: Validating portal[6] <-> 1[6] (inactive)	
+[02:22:42]: Validating portal[2] <-> 1[2] (inactive)	
+[02:22:42]: Validating portal[10] <-> 1[10] (inactive)	
+[02:22:42]: Validating portal[4] <-> 1[4] (inactive)	
+[02:22:42]: Validating portal[3] <-> 1[3] (inactive)	
+[02:22:42]: Sim paused
+[02:23:00]: Synchronizing backward to master snapshot 89	
+[02:23:00]: Truncating to snapshot #89...
+[02:23:00]:  - session/442C017514EFE35F/0000000090
+[02:23:00]:  - session/442C017514EFE35F/0000000091
+[02:23:00]:    2 file(s) removed
+[02:23:00]: World 1 is now connected	
+[02:23:00]: Validating portal[7] <-> 1[7] (active)	
+[02:23:00]: Validating portal[9] <-> 1[9] (active)	
+[02:23:00]: Validating portal[1] <-> 1[1] (active)	
+[02:23:00]: Validating portal[8] <-> 1[8] (active)	
+[02:23:00]: Validating portal[5] <-> 1[5] (active)	
+[02:23:00]: Validating portal[6] <-> 1[6] (active)	
+[02:23:00]: Validating portal[2] <-> 1[2] (active)	
+[02:23:00]: Validating portal[10] <-> 1[10] (active)	
+[02:23:00]: Validating portal[4] <-> 1[4] (active)	
+[02:23:00]: Validating portal[3] <-> 1[3] (active)	
+[02:23:00]: Sim unpaused
+[02:23:00]: Collecting garbage...
+[02:23:00]: lua_gc took 0.16 seconds
+[02:23:00]: ~ShardLuaProxy()
+[02:23:00]: ~cEventLeaderboardProxy()
+[02:23:00]: ~ItemServerLuaProxy()
+[02:23:00]: ~InventoryLuaProxy()
+[02:23:00]: ~NetworkLuaProxy()
+[02:23:00]: ~SimLuaProxy()
+[02:23:01]: lua_close took 0.33 seconds
+[02:23:01]: ReleaseAll
+[02:23:01]: ReleaseAll Finished
+[02:23:01]: cGame::StartPlaying
+[02:23:01]: LOADING LUA
+[02:23:01]: DoLuaFile scripts/main.lua
+[02:23:01]: DoLuaFile loading buffer scripts/main.lua
+[02:23:01]:   taskgrouplist:	default	Together	
+[02:23:01]:   taskgrouplist:	classic	Classic	
+[02:23:01]:   taskgrouplist:	cave_default	Underground	
+[02:23:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[02:23:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[02:23:01]: running main.lua
+	
+[02:23:01]: unloading prefabs for mod MOD_workshop-666155465	
+[02:23:01]: unloading prefabs for mod MOD_workshop-1582864428	
+[02:23:01]: unloading prefabs for mod MOD_workshop-378160973	
+[02:23:01]: loaded modindex	
+[02:23:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[02:23:01]: modoverrides.lua enabling workshop-378160973	
+[02:23:01]: modoverrides.lua enabling workshop-1582864428	
+[02:23:01]: modoverrides.lua enabling workshop-666155465	
+[02:23:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:23:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:23:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:23:01]: Could not load mod_config_data/modconfiguration_workshop-1582864428	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:23:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:23:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:23:01]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:23:01]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option lang with value auto	
+[02:23:01]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:23:01]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:23:01]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
+[02:23:01]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:23:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:23:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:23:01]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:23:01]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option lang with value auto	
+[02:23:01]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:23:01]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:23:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[02:23:01]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:23:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:23:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:23:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:23:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:23:01]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:23:01]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:23:01]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option lang with value auto	
+[02:23:01]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:23:01]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:23:01]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:23:01]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.49	
+[02:23:01]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[02:23:01]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[02:23:01]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[02:23:01]: ShowMe version:	0.49	
+[02:23:01]: show_food_units	-1	-1	-1	
+[02:23:01]: show_uses	-1	-1	-1	
+[02:23:01]: Mod: workshop-1582864428 (Don't Reset World)	Loading modworldgenmain.lua	
+[02:23:01]: Mod: workshop-1582864428 (Don't Reset World)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:23:01]: Mod: workshop-1582864428 (Don't Reset World)	Loading modmain.lua	
+[02:23:01]: World reset has disabled	
+[02:23:01]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[02:23:01]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:23:01]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[02:23:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:23:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:23:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:23:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[02:23:02]: LOADING LUA SUCCESS
+[02:23:02]: Registering mod namespace "showmeshint"
+[02:23:02]: Registering mod namespace "workshop-378160973"
+[02:23:02]: Registering mod namespace "showme"
+[02:23:02]: PlayerDeaths could not load morgue	
+[02:23:02]: PlayerHistory could not load player_history	
+[02:23:02]: ServerPreferences could not load server_preferences	
+[02:23:02]: bloom_enabled	false	
+[02:23:02]: loaded saveindex	
+[02:23:02]: OnFilesLoaded()	
+[02:23:02]: OnUpdatePurchaseStateComplete	
+[02:23:02]: Loading world: session/442C017514EFE35F/0000000089	
+[02:23:02]: Save file is at version 5.031	
+[02:23:02]: Klump load on boot started.	
+[02:23:02]: Klump files loaded: 	0	
+[02:23:02]: 	Unload characters	
+[02:23:02]: 	BE assets already loaded	
+[02:23:04]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[02:23:04]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[02:23:04]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
+[02:23:04]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
+[02:23:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[02:23:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[02:23:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[02:23:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[02:23:05]: Begin Session: 442C017514EFE35F
+[02:23:05]: Stomping previously assigned session identifier, two loads issued.
+[02:23:05]: saving to server_temp/server_save	
+[02:23:05]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[02:23:05]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[02:23:05]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[02:23:05]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[02:23:05]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[02:23:05]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[02:23:05]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[02:23:05]: Loading 16 new character(s)	
+[02:23:06]: Total 16 character(s) loaded	
+[02:23:16]: Loading Nav Grid	
+[02:23:16]: World generated on version 382128, using seed: 1575587620	
+[02:23:16]: setting 	summerlength	15	
+[02:23:16]: setting 	isnightmaredawn	false	
+[02:23:16]: setting 	elapseddaysinseason	13	
+[02:23:16]: setting 	isfullmoon	false	
+[02:23:16]: setting 	moisture	5293.8950195313	
+[02:23:16]: setting 	springlength	20	
+[02:23:16]: setting 	isnightmarewild	true	
+[02:23:16]: setting 	moonphase	new	
+[02:23:16]: setting 	precipitationrate	0	
+[02:23:16]: setting 	iswet	false	
+[02:23:16]: setting 	isnewmoon	false	
+[02:23:16]: setting 	iswinter	false	
+[02:23:16]: setting 	israining	false	
+[02:23:16]: setting 	isnightmarewarn	false	
+[02:23:16]: setting 	precipitation	none	
+[02:23:16]: setting 	cavephase	day	
+[02:23:16]: setting 	moistureceil	7591.330078125	
+[02:23:16]: setting 	isday	false	
+[02:23:16]: setting 	iscaveday	true	
+[02:23:16]: setting 	season	summer	
+[02:23:16]: setting 	timeinphase	0.0035497029622396	
+[02:23:16]: setting 	temperature	43.439269773452	
+[02:23:16]: setting 	isnightmarecalm	false	
+[02:23:16]: setting 	isnight	true	
+[02:23:16]: setting 	isdusk	false	
+[02:23:16]: setting 	iscavedusk	false	
+[02:23:16]: setting 	isautumn	false	
+[02:23:16]: setting 	issnowing	false	
+[02:23:16]: setting 	iswaxingmoon	true	
+[02:23:16]: setting 	pop	0.32516805013651	
+[02:23:16]: setting 	snowlevel	0	
+[02:23:16]: setting 	issnowcovered	false	
+[02:23:16]: setting 	autumnlength	20	
+[02:23:16]: setting 	phase	night	
+[02:23:16]: setting 	nightmaretime	543.01930759266	
+[02:23:16]: setting 	winterlength	15	
+[02:23:16]: setting 	isspring	false	
+[02:23:16]: setting 	nightmarephase	wild	
+[02:23:16]: setting 	remainingdaysinseason	2	
+[02:23:16]: setting 	cycles	68	
+[02:23:16]: setting 	iscavenight	false	
+[02:23:16]: setting 	nightmaretimeinphase	0.62012871728437	
+[02:23:16]: setting 	wetness	0	
+[02:23:16]: setting 	time	0.0022185643513997	
+[02:23:16]: setting 	issummer	true	
+[02:23:20]: Reconstructing topology	
+[02:23:20]: 	...Sorting points	
+[02:23:20]: 	...Sorting edges	
+[02:23:20]: 	...Connecting nodes	
+[02:23:20]: 	...Validating connections	
+[02:23:20]: 	...Housekeeping	
+[02:23:20]: 	...Done!	
+[02:23:20]: 1 uploads added to server. From server_temp
+[02:23:20]: World 1 is now connected	
+[02:23:20]: Telling Client our new session identifier: 442C017514EFE35F
+[02:23:20]: Check for write access: TRUE
+[02:23:20]: Check for read access: TRUE
+[02:23:20]: ModIndex: Load sequence finished successfully.	
+[02:23:20]: Reset() returning
+[02:23:20]: Validating portal[7] <-> 1[7] (active)	
+[02:23:20]: Validating portal[10] <-> 1[10] (active)	
+[02:23:20]: Validating portal[1] <-> 1[1] (active)	
+[02:23:20]: Validating portal[6] <-> 1[6] (active)	
+[02:23:20]: Validating portal[2] <-> 1[2] (active)	
+[02:23:20]: Validating portal[5] <-> 1[5] (active)	
+[02:23:20]: Validating portal[3] <-> 1[3] (active)	
+[02:23:20]: Validating portal[4] <-> 1[4] (active)	
+[02:23:20]: Validating portal[8] <-> 1[8] (active)	
+[02:23:20]: Validating portal[9] <-> 1[9] (active)	
+[02:24:35]: World 1 is now disconnected	
+[02:24:35]: Validating portal[7] <-> 1[7] (inactive)	
+[02:24:35]: Validating portal[10] <-> 1[10] (inactive)	
+[02:24:35]: Validating portal[1] <-> 1[1] (inactive)	
+[02:24:35]: Validating portal[6] <-> 1[6] (inactive)	
+[02:24:35]: Validating portal[2] <-> 1[2] (inactive)	
+[02:24:35]: Validating portal[5] <-> 1[5] (inactive)	
+[02:24:35]: Validating portal[3] <-> 1[3] (inactive)	
+[02:24:35]: Validating portal[4] <-> 1[4] (inactive)	
+[02:24:35]: Validating portal[8] <-> 1[8] (inactive)	
+[02:24:35]: Validating portal[9] <-> 1[9] (inactive)	
+[02:24:35]: Sim paused
+[02:24:55]: Synchronizing backward to master snapshot 88	
+[02:24:55]: Truncating to snapshot #88...
+[02:24:55]:  - session/442C017514EFE35F/0000000089
+[02:24:55]:    1 file(s) removed
+[02:24:55]: World 1 is now connected	
+[02:24:55]: Validating portal[7] <-> 1[7] (active)	
+[02:24:55]: Validating portal[10] <-> 1[10] (active)	
+[02:24:55]: Validating portal[1] <-> 1[1] (active)	
+[02:24:55]: Validating portal[6] <-> 1[6] (active)	
+[02:24:55]: Validating portal[2] <-> 1[2] (active)	
+[02:24:55]: Validating portal[5] <-> 1[5] (active)	
+[02:24:55]: Validating portal[3] <-> 1[3] (active)	
+[02:24:55]: Validating portal[4] <-> 1[4] (active)	
+[02:24:55]: Validating portal[8] <-> 1[8] (active)	
+[02:24:55]: Validating portal[9] <-> 1[9] (active)	
+[02:24:55]: Sim unpaused
+[02:24:55]: Collecting garbage...
+[02:24:55]: lua_gc took 0.15 seconds
+[02:24:55]: ~ShardLuaProxy()
+[02:24:55]: ~cEventLeaderboardProxy()
+[02:24:55]: ~ItemServerLuaProxy()
+[02:24:55]: ~InventoryLuaProxy()
+[02:24:55]: ~NetworkLuaProxy()
+[02:24:55]: ~SimLuaProxy()
+[02:24:56]: lua_close took 0.33 seconds
+[02:24:56]: ReleaseAll
+[02:24:56]: ReleaseAll Finished
+[02:24:56]: cGame::StartPlaying
+[02:24:56]: LOADING LUA
+[02:24:56]: DoLuaFile scripts/main.lua
+[02:24:56]: DoLuaFile loading buffer scripts/main.lua
+[02:24:56]:   taskgrouplist:	default	Together	
+[02:24:56]:   taskgrouplist:	classic	Classic	
+[02:24:56]:   taskgrouplist:	cave_default	Underground	
+[02:24:56]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[02:24:56]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[02:24:56]: running main.lua
+	
+[02:24:56]: unloading prefabs for mod MOD_workshop-666155465	
+[02:24:56]: unloading prefabs for mod MOD_workshop-1582864428	
+[02:24:56]: unloading prefabs for mod MOD_workshop-378160973	
+[02:24:56]: loaded modindex	
+[02:24:56]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[02:24:56]: modoverrides.lua enabling workshop-378160973	
+[02:24:56]: modoverrides.lua enabling workshop-1582864428	
+[02:24:56]: modoverrides.lua enabling workshop-666155465	
+[02:24:56]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:24:56]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:24:56]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:24:56]: Could not load mod_config_data/modconfiguration_workshop-1582864428	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:24:56]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:24:56]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:24:56]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:24:56]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option lang with value auto	
+[02:24:56]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:24:56]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:24:56]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
+[02:24:56]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:24:56]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:24:56]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:24:56]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:24:56]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option lang with value auto	
+[02:24:56]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:24:56]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:24:56]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[02:24:56]: Could not load mod_config_data/modconfiguration_workshop-666155465	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[02:24:56]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[02:24:56]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[02:24:56]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[02:24:56]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[02:24:56]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[02:24:56]: Overriding mod workshop-666155465's option chestR with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_style with value 0	
+[02:24:56]: Overriding mod workshop-666155465's option show_uses with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option lang with value auto	
+[02:24:56]: Overriding mod workshop-666155465's option chestB with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_order with value 0	
+[02:24:56]: Overriding mod workshop-666155465's option chestG with value -1	
+[02:24:56]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[02:24:56]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.49	
+[02:24:56]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[02:24:56]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[02:24:56]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[02:24:56]: ShowMe version:	0.49	
+[02:24:56]: show_food_units	-1	-1	-1	
+[02:24:56]: show_uses	-1	-1	-1	
+[02:24:56]: Mod: workshop-1582864428 (Don't Reset World)	Loading modworldgenmain.lua	
+[02:24:56]: Mod: workshop-1582864428 (Don't Reset World)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:24:56]: Mod: workshop-1582864428 (Don't Reset World)	Loading modmain.lua	
+[02:24:56]: World reset has disabled	
+[02:24:56]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[02:24:56]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:24:56]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[02:24:56]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[02:24:56]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[02:24:56]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[02:24:57]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[02:24:57]: LOADING LUA SUCCESS
+[02:24:57]: Registering mod namespace "showmeshint"
+[02:24:57]: Registering mod namespace "workshop-378160973"
+[02:24:57]: Registering mod namespace "showme"
+[02:24:57]: PlayerDeaths could not load morgue	
+[02:24:57]: PlayerHistory could not load player_history	
+[02:24:57]: ServerPreferences could not load server_preferences	
+[02:24:57]: bloom_enabled	false	
+[02:24:57]: loaded saveindex	
+[02:24:57]: OnFilesLoaded()	
+[02:24:57]: OnUpdatePurchaseStateComplete	
+[02:24:57]: Loading world: session/442C017514EFE35F/0000000088	
+[02:24:57]: Save file is at version 5.031	
+[02:24:57]: Klump load on boot started.	
+[02:24:57]: Klump files loaded: 	0	
+[02:24:57]: 	Unload characters	
+[02:24:57]: 	BE assets already loaded	
+[02:25:00]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[02:25:00]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[02:25:00]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
+[02:25:00]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[02:25:00]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[02:25:00]: Begin Session: 442C017514EFE35F
+[02:25:00]: Stomping previously assigned session identifier, two loads issued.
+[02:25:00]: saving to server_temp/server_save	
+[02:25:00]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[02:25:00]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[02:25:00]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[02:25:00]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[02:25:00]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[02:25:00]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[02:25:00]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[02:25:00]: Loading 16 new character(s)	
+[02:25:01]: Total 16 character(s) loaded	
+[02:25:12]: Loading Nav Grid	
+[02:25:12]: World generated on version 382128, using seed: 1575587620	
+[02:25:12]: setting 	summerlength	15	
+[02:25:12]: setting 	isnightmaredawn	false	
+[02:25:12]: setting 	elapseddaysinseason	12	
+[02:25:12]: setting 	isfullmoon	false	
+[02:25:12]: setting 	moisture	5167.1513671875	
+[02:25:12]: setting 	springlength	20	
+[02:25:12]: setting 	isnightmarewild	false	
+[02:25:12]: setting 	moonphase	new	
+[02:25:12]: setting 	precipitationrate	0	
+[02:25:12]: setting 	iswet	false	
+[02:25:12]: setting 	isnewmoon	false	
+[02:25:12]: setting 	iswinter	false	
+[02:25:12]: setting 	israining	false	
+[02:25:12]: setting 	isnightmarewarn	false	
+[02:25:12]: setting 	precipitation	none	
+[02:25:12]: setting 	cavephase	day	
+[02:25:12]: setting 	moistureceil	7591.330078125	
+[02:25:12]: setting 	isday	false	
+[02:25:12]: setting 	iscaveday	true	
+[02:25:12]: setting 	season	summer	
+[02:25:12]: setting 	timeinphase	0.0035065714518229	
+[02:25:12]: setting 	temperature	47.85135935909	
+[02:25:12]: setting 	isnightmarecalm	true	
+[02:25:12]: setting 	isnight	true	
+[02:25:12]: setting 	isdusk	false	
+[02:25:12]: setting 	iscavedusk	false	
+[02:25:12]: setting 	isautumn	false	
+[02:25:12]: setting 	issnowing	false	
+[02:25:12]: setting 	iswaxingmoon	true	
+[02:25:12]: setting 	pop	0.28793928681455	
+[02:25:12]: setting 	snowlevel	0	
+[02:25:12]: setting 	issnowcovered	false	
+[02:25:12]: setting 	autumnlength	20	
+[02:25:12]: setting 	phase	night	
+[02:25:12]: setting 	nightmaretime	157.40127784444	
+[02:25:12]: setting 	winterlength	15	
+[02:25:12]: setting 	isspring	false	
+[02:25:12]: setting 	nightmarephase	calm	
+[02:25:12]: setting 	remainingdaysinseason	3	
+[02:25:12]: setting 	cycles	67	
+[02:25:12]: setting 	iscavenight	false	
+[02:25:12]: setting 	nightmaretimeinphase	0.43722577179011	
+[02:25:12]: setting 	wetness	0	
+[02:25:12]: setting 	time	0.0021916071573893	
+[02:25:12]: setting 	issummer	true	
+[02:25:18]: Reconstructing topology	
+[02:25:18]: 	...Sorting points	
+[02:25:18]: 	...Sorting edges	
+[02:25:18]: 	...Connecting nodes	
+[02:25:18]: 	...Validating connections	
+[02:25:18]: 	...Housekeeping	
+[02:25:18]: 	...Done!	
+[02:25:18]: 1 uploads added to server. From server_temp
+[02:25:18]: World 1 is now connected	
+[02:25:18]: Telling Client our new session identifier: 442C017514EFE35F
+[02:25:18]: Check for write access: TRUE
+[02:25:18]: Check for read access: TRUE
+[02:25:18]: ModIndex: Load sequence finished successfully.	
+[02:25:18]: Reset() returning
+[02:25:18]: Registering slave in US lobby
+[02:25:19]: Validating portal[7] <-> 1[7] (active)	
+[02:25:19]: Validating portal[9] <-> 1[9] (active)	
+[02:25:19]: Validating portal[10] <-> 1[10] (active)	
+[02:25:19]: Validating portal[1] <-> 1[1] (active)	
+[02:25:19]: Validating portal[3] <-> 1[3] (active)	
+[02:25:19]: Validating portal[4] <-> 1[4] (active)	
+[02:25:19]: Validating portal[8] <-> 1[8] (active)	
+[02:25:19]: Validating portal[5] <-> 1[5] (active)	
+[02:25:19]: Validating portal[6] <-> 1[6] (active)	
+[02:25:19]: Validating portal[2] <-> 1[2] (active)	
+[02:30:06]: [200] Account Communication Success (6)
+[02:30:06]: Received (KU_84Tfun2u) from TokenPurpose
+[02:30:18]: Registering slave in US lobby
+[02:33:07]: Serializing world: session/442C017514EFE35F/0000000089
+[02:35:18]: Registering slave in US lobby
+[02:40:18]: Registering slave in US lobby
+[02:41:09]: Serializing world: session/442C017514EFE35F/0000000090
+[02:45:18]: Registering slave in US lobby
+[02:49:10]: Serializing world: session/442C017514EFE35F/0000000091
+[02:50:18]: Registering slave in US lobby
+[02:55:18]: Registering slave in US lobby
+[02:57:11]: Serializing world: session/442C017514EFE35F/0000000092
+[03:00:06]: [200] Account Communication Success (6)
+[03:00:06]: Received (KU_84Tfun2u) from TokenPurpose
+[03:00:18]: Registering slave in US lobby
+[03:05:12]: Serializing world: session/442C017514EFE35F/0000000093
+[03:05:12]: Truncating to snapshot #93...
+[03:05:12]:  - session/442C017514EFE35F/0000000087
+[03:05:12]:    1 file(s) removed
+[03:05:18]: Registering slave in US lobby
+[03:10:18]: Registering slave in US lobby
+[03:13:13]: Serializing world: session/442C017514EFE35F/0000000094
+[03:13:13]: Truncating to snapshot #94...
+[03:13:13]:  - session/442C017514EFE35F/0000000088
+[03:13:13]:    1 file(s) removed
+[03:15:18]: Registering slave in US lobby
+[03:20:18]: Registering slave in US lobby
+[03:21:13]: Serializing world: session/442C017514EFE35F/0000000095
+[03:21:13]: Truncating to snapshot #95...
+[03:21:13]:  - session/442C017514EFE35F/0000000089
+[03:21:13]:    1 file(s) removed
+[03:25:18]: Registering slave in US lobby
+[03:29:14]: Serializing world: session/442C017514EFE35F/0000000096
+[03:29:14]: Truncating to snapshot #96...
+[03:29:14]:  - session/442C017514EFE35F/0000000090
+[03:29:14]:    1 file(s) removed
+[03:30:06]: [200] Account Communication Success (6)
+[03:30:06]: Received (KU_84Tfun2u) from TokenPurpose
+[03:30:18]: Registering slave in US lobby
+[03:35:18]: Registering slave in US lobby
+[03:37:15]: Serializing world: session/442C017514EFE35F/0000000097
+[03:37:15]: Truncating to snapshot #97...
+[03:37:15]:  - session/442C017514EFE35F/0000000091
+[03:37:15]:    1 file(s) removed
+[03:40:18]: Registering slave in US lobby
+[03:45:16]: Serializing world: session/442C017514EFE35F/0000000098
+[03:45:16]: Truncating to snapshot #98...
+[03:45:16]:  - session/442C017514EFE35F/0000000092
+[03:45:16]:    1 file(s) removed
+[03:45:18]: Registering slave in US lobby
+[03:50:18]: Registering slave in US lobby
+[03:53:16]: Serializing world: session/442C017514EFE35F/0000000099
+[03:53:16]: Truncating to snapshot #99...
+[03:53:16]:  - session/442C017514EFE35F/0000000093
+[03:53:16]:    1 file(s) removed
+[03:55:18]: Registering slave in US lobby
+[04:00:06]: [200] Account Communication Success (6)
+[04:00:06]: Received (KU_84Tfun2u) from TokenPurpose
+[04:00:18]: Registering slave in US lobby
+[04:01:17]: Serializing world: session/442C017514EFE35F/0000000100
+[04:01:17]: Truncating to snapshot #100...
+[04:01:17]:  - session/442C017514EFE35F/0000000094
+[04:01:17]:    1 file(s) removed
+[04:05:18]: Registering slave in US lobby
+[04:09:18]: Serializing world: session/442C017514EFE35F/0000000101
+[04:09:18]: Truncating to snapshot #101...
+[04:09:18]:  - session/442C017514EFE35F/0000000095
+[04:09:18]:    1 file(s) removed
+[04:10:18]: Registering slave in US lobby
+[04:15:18]: Registering slave in US lobby
+[04:17:19]: Serializing world: session/442C017514EFE35F/0000000102
+[04:17:19]: Truncating to snapshot #102...
+[04:17:19]:  - session/442C017514EFE35F/0000000096
+[04:17:19]:    1 file(s) removed
+[04:20:18]: Registering slave in US lobby
+[04:25:18]: Registering slave in US lobby
+[04:25:19]: Serializing world: session/442C017514EFE35F/0000000103
+[04:25:19]: Truncating to snapshot #103...
+[04:25:19]:  - session/442C017514EFE35F/0000000097
+[04:25:19]:    1 file(s) removed
+[04:27:06]: Sim paused
+[04:28:03]: Sim unpaused
+[04:30:06]: [200] Account Communication Success (6)
+[04:30:06]: Received (KU_84Tfun2u) from TokenPurpose
+[04:30:18]: Registering slave in US lobby
+[04:34:18]: Serializing world: session/442C017514EFE35F/0000000104
+[04:34:18]: Truncating to snapshot #104...
+[04:34:18]:  - session/442C017514EFE35F/0000000098
+[04:34:18]:    1 file(s) removed
+[04:35:18]: Registering slave in US lobby
+[04:35:57]: Sim paused
+[04:36:04]: RemoteCommandInput: "c_shutdown(true)"
+[04:36:04]: c_shutdown	true	
+[04:36:04]: Serializing world: session/442C017514EFE35F/0000000105
+[04:36:04]: Truncating to snapshot #105...
+[04:36:04]:  - session/442C017514EFE35F/0000000099
+[04:36:04]:    1 file(s) removed
+[04:36:05]: Serializing world: session/442C017514EFE35F/0000000106
+[04:36:05]: Truncating to snapshot #106...
+[04:36:05]:  - session/442C017514EFE35F/0000000100
+[04:36:05]:    1 file(s) removed
+[04:36:05]: [Shard] Stopping shard mode
+[04:36:05]: Collecting garbage...
+[04:36:06]: lua_gc took 0.18 seconds
+[04:36:06]: ~ShardLuaProxy()
+[04:36:06]: ~cEventLeaderboardProxy()
+[04:36:06]: ~ItemServerLuaProxy()
+[04:36:06]: ~InventoryLuaProxy()
+[04:36:06]: ~NetworkLuaProxy()
+[04:36:06]: ~SimLuaProxy()
+[04:36:06]: lua_close took 0.27 seconds
+[04:36:06]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[04:36:06]: CurlRequestManager::ClientThread::Main() complete
+[04:36:06]: HttpClient2 discarded 0 callbacks.
+[04:36:06]: Shutting down
