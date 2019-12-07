@@ -1,7 +1,4 @@
-[00:01:57]: [Join Announcement] Mr. Zhaobian
-[00:02:41]: [Join Announcement] GR3
-[00:04:11]: [Join Announcement] kn1ght
-[00:04:26]: [Leave Announcement] Mr. Zhaobian
-[00:04:51]: [Join Announcement] Mr. Zhaobian
-[00:09:38]: [Leave Announcement] kn1ght
-[00:09:52]: [Leave Announcement] GR3
+[00:02:27]: [Join Announcement] Mr. Zhaobian
+[00:03:28]: [Leave Announcement] Mr. Zhaobian
+[00:05:43]: [Join Announcement] Mr. Zhaobian
+[00:19:00]: [Leave Announcement] Mr. Zhaobian

@@ -1,0 +1,242 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 62%
+	Available Physical Memory: 3074m/8174m
+	Available Page File: 8596m/15598m
+	Available Virtual Memory: 4005m/4095m
+	Available Extended Virtual Memory: 0m
+[00:04:55]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 168k
+	Quota Page Pool Usage: 168k
+	Quota Peak Non Paged Pool Usage:15k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:04:55]: PersistRootStorage is now APP:Klei//servidores/ServerRB/Master/ 
+[00:04:55]: Starting Up
+[00:04:55]: Version: 382128
+[00:04:55]: Current time: Fri Dec 06 23:26:02 2019
+
+[00:04:55]: Don't Starve Together: 382128 WIN32
+[00:04:55]: Build Date: 4882
+[00:04:55]: Mode: 32-bit
+[00:04:55]: Parsing command line
+[00:04:55]: Command Line Arguments: -conf_dir servidores -console -cluster ServerRB -shard Master 
+[00:04:55]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:04:55]: Initializing distribution platform
+[00:04:55]: Initializing Minidump handler
+[00:04:55]: ....Done
+[00:04:55]: ....Done
+[00:04:55]: Fixing DPI
+[00:04:55]: ...Done
+[00:04:55]: THREAD - started 'GAClient' (13308)
+[00:04:55]: CurlRequestManager::ClientThread::Main()
+[00:04:55]: Mounting file system databundles/klump.zip successful.
+[00:04:55]: Mounting file system databundles/shaders.zip successful.
+[00:04:55]: Mounting file system databundles/fonts.zip successful.
+[00:04:55]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:04:55]: Mounting file system databundles/bigportraits.zip successful.
+[00:04:55]: Mounting file system databundles/images.zip successful.
+[00:04:55]: Mounting file system databundles/scripts.zip successful.
+[00:04:55]: ProfileIndex:4.32
+[00:04:55]: [Connect] PendingConnection::Reset(true)
+[00:04:55]: THREAD - started 'Ping Job Thread' (6680)
+[00:04:55]: Platform: 1
+[00:04:55]: Network tick rate: U=15(2), D=0
+[00:04:55]: Network tick rate: U=15(2), D=0
+[00:04:55]: Authorized application d:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:04:55]: WindowsFirewall - Application already authorized
+[00:04:55]: OnLoadPermissionList: APP:Klei//servidores/ServerRB/blocklist.txt (Failure)
+[00:04:55]: THREAD - started 'StreamInput' (13984)
+[00:04:55]: OnLoadPermissionList: APP:Klei//servidores/ServerRB/adminlist.txt (Failure)
+[00:04:55]: OnLoadUserIdList: APP:Klei//servidores/ServerRB/whitelist.txt (Failure)
+[00:04:55]: Token retrieved from: APP:Klei//servidores/ServerRB/cluster_token.txt
+[00:04:55]: Token retrieved from: APP:Klei//servidores/ServerRB/cluster_token.txt
+[00:04:55]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.18362
+    architecture              64 bits
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  3
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD FX(tm)-6300 Six-Core Processor             
+    manufacturer              AuthenticAMD
+    clockSpeed                3500
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      AMD Radeon R9 200 Series
+    driverDate                20190910000000.000000-000
+    megsOfRam                 2048
+    refreshRate               60
+    videoModeDescription      2560 x 1080 x 4294967296 cores
+    driverVersion             26.20.13003.1007
+
+[00:04:55]: cGame::InitializeOnMainThread
+[00:04:55]: Renderer initialize: Okay
+[00:04:55]: AnimManager initialize: Okay
+[00:04:55]: Buffers initialize: Okay
+[00:04:55]: cDontStarveGame::DoGameSpecificInitialize()
+[00:04:55]: GameSpecific initialize: Okay
+[00:04:55]: cGame::StartPlaying
+[00:04:55]: LOADING LUA
+[00:04:55]: DoLuaFile scripts/main.lua
+[00:04:55]: DoLuaFile loading buffer scripts/main.lua
+[00:04:55]:   taskgrouplist:	default	Together	
+[00:04:55]:   taskgrouplist:	classic	Classic	
+[00:04:55]:   taskgrouplist:	cave_default	Underground	
+[00:04:55]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:04:55]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:04:55]: running main.lua
+	
+[00:04:55]: loaded modindex	
+[00:04:55]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:04:55]: DownloadMods(0)
+[00:04:55]: modoverrides.lua enabling workshop-378160973	
+[00:04:55]: modoverrides.lua enabling workshop-1582864428	
+[00:04:55]: modoverrides.lua enabling workshop-666155465	
+[00:04:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[00:04:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:04:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:04:55]: Could not load mod_config_data/modconfiguration_workshop-1582864428_CLIENT	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:04:55]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:04:55]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:04:55]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:04:55]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option lang with value auto	
+[00:04:55]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:04:55]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:04:55]: Loading mod: workshop-1582864428 (Don't Reset World) Version:1.1	
+[00:04:55]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:04:55]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:04:55]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:04:55]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:04:55]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option lang with value auto	
+[00:04:55]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:04:55]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:04:55]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:04:55]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:04:55]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:04:55]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:04:55]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:04:55]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-1582864428	
+[00:04:55]: applying configuration_options from modoverrides.lua to mod workshop-666155465	
+[00:04:55]: Overriding mod workshop-666155465's option chestR with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_style with value 0	
+[00:04:55]: Overriding mod workshop-666155465's option show_uses with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option show_food_units with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option lang with value auto	
+[00:04:55]: Overriding mod workshop-666155465's option chestB with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_order with value 0	
+[00:04:55]: Overriding mod workshop-666155465's option chestG with value -1	
+[00:04:55]: Overriding mod workshop-666155465's option food_estimation with value -1	
+[00:04:55]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.49	
+[00:04:55]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:04:55]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:55]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:04:55]: ShowMe version:	0.49	
+[00:04:55]: show_food_units	-1	-1	-1	
+[00:04:55]: show_uses	-1	-1	-1	
+[00:04:55]: Mod: workshop-1582864428 (Don't Reset World)	Loading modworldgenmain.lua	
+[00:04:55]: Mod: workshop-1582864428 (Don't Reset World)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:55]: Mod: workshop-1582864428 (Don't Reset World)	Loading modmain.lua	
+[00:04:55]: World reset has disabled	
+[00:04:55]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:04:55]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:55]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:04:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1582864428	
+[00:04:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:04:55]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:04:55]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:04:57]: LOADING LUA SUCCESS
+[00:04:57]: Registering mod namespace "showmeshint"
+[00:04:57]: Registering mod namespace "workshop-378160973"
+[00:04:57]: Registering mod namespace "showme"
+[00:04:57]: PlayerDeaths could not load morgue	
+[00:04:57]: PlayerHistory could not load player_history	
+[00:04:57]: ServerPreferences could not load server_preferences	
+[00:04:57]: bloom_enabled	false	
+[00:04:57]: loaded saveindex	
+[00:04:57]: OnFilesLoaded()	
+[00:04:57]: OnUpdatePurchaseStateComplete	
+[00:04:57]: Klump load on boot started.	
+[00:04:57]: Klump files loaded: 	0	
+[00:04:59]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:04:59]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:04:59]: Mod: workshop-1582864428 (Don't Reset World)	Registering prefabs	
+[00:04:59]: Mod: workshop-1582864428 (Don't Reset World)	  Registering default mod prefab	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:04:59]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:04:59]: 	Load FE	
+[00:04:59]: 	Load FE: done	
+[00:04:59]: THREAD - started 'FilesExistAsyncThread' (13868)
+[00:04:59]: FilesExistAsyncThread started (13288 files)...
+[00:04:59]: Check for write access: TRUE
+[00:04:59]: Check for read access: TRUE
+[00:04:59]: ModIndex: Load sequence finished successfully.	
+[00:04:59]: Reset() returning
+[00:04:59]: Collecting garbage...
+[00:04:59]: lua_gc took 0.05 seconds
+[00:04:59]: ~ShardLuaProxy()
+[00:04:59]: ~cEventLeaderboardProxy()
+[00:04:59]: ~ItemServerLuaProxy()
+[00:04:59]: ~InventoryLuaProxy()
+[00:04:59]: ~NetworkLuaProxy()
+[00:04:59]: ~SimLuaProxy()
+[00:04:59]: FilesExistAsyncThread aborted.
+[00:04:59]: ... FilesExistAsyncThread complete
+[00:04:59]: lua_close took 0.08 seconds
+[00:04:59]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:05:00]: CurlRequestManager::ClientThread::Main() complete
+[00:05:00]: HttpClient2 discarded 0 callbacks.
+[00:05:00]: Shutting down
